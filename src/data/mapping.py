@@ -20,7 +20,7 @@ class StringMatcher():
         Returns:
             pd.DataFrame: returns a DataFrame with the corresponding classes from dbpedia
         """        
-        output = ""
+        output = pd.DataFrame()
         if self.df['label'].eq(string).any():
             df = self.df[self.df['label'] == string]['class']
             output = pd.DataFrame(df)
