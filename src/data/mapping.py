@@ -9,7 +9,7 @@ logger = logging.getLogger(__name__)
 class StringMatcher():
     
     def __init__(self) -> None:
-        self.df = pd.read_csv("data/raw/dbpedia_classes.csv")
+        self.df = pd.read_csv("/Users/twei/workplace/ISE-workplace/ISE-Linking-Entities-from-Images-to-Knowledge-Graphs/src/data/dbpedia_classes.csv")
     
     def match_string(self, string:str) -> pd.DataFrame:
         """method that gives us the dbpedia class to a given string
