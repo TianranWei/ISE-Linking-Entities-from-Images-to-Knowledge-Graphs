@@ -13,8 +13,6 @@ class StringMatcher():
     
     def match_exact_string(self, string:str) -> pd.DataFrame:
         """method that gives us the dbpedia class to a given string
-        OBS: the string needs the be the same as the label of the class
-        TODO: find pattern that allows upper/lowercase differences if necessary
         Args:
             string (str): the class we are looking for
         Returns:
