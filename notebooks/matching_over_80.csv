@@ -1,0 +1,49 @@
+,Class ID,imageNet_class,max_similarity_ratio,dbpedia_class
+818,818,"['spotlight', 'spot']",89,sport
+751,751,"['racer', 'race car', 'racing car']",89,race
+745,745,['projector'],88,project
+562,562,['fountain'],88,mountain
+312,312,['cricket'],88,cricketer
+660,660,"['mobile home', 'manufactured home']",87,mobile phone
+946,946,['cardoon'],86,cartoon
+742,742,['printer'],86,painter
+600,600,"['hook', 'claw']",86,law
+998,998,"['ear', 'spike', 'capitulum']",86,year
+738,738,"['pot', 'flowerpot']",86,poet
+468,468,"['cab', 'hack', 'taxi', 'taxicab']",86,tax
+290,290,"['jaguar', 'panther', 'Panthera onca', 'Felis onca']",86,painter
+309,309,['bee'],86,beer
+909,909,['wok'],86,work
+989,989,"['hip', 'rose hip', 'rosehip']",86,ship
+880,880,"['unicycle', 'monocycle']",84,motorcycle
+866,866,['tractor'],83,actor
+752,752,"['racket', 'racquet']",83,rocket
+471,471,['cannon'],83,canton
+652,652,['military uniform'],83,military unit
+765,765,"['rocking chair', 'rocker']",83,rocket
+22,22,"['bald eagle', 'American eagle', 'Haliaeetus leucocephalus']",83,American Leader
+744,744,"['projectile', 'missile']",82,project
+851,851,"['television', 'television system']",81,television host
+868,868,['tray'],80,treaty
+452,452,"['bonnet', 'poke bonnet']",80,bone
+365,365,"['orangutan', 'orang', 'orangutang', 'Pongo pygmaeus']",80,organ
+684,684,"['ocarina', 'sweet potato']",80,cardinal
+778,778,"['scale', 'weighing machine']",80,sales
+430,430,['basketball'],80,basketball team
+438,438,['beaker'],80,beer
+112,112,['conch'],80,coach
+819,819,['stage'],80,state
+294,294,"['brown bear', 'bruin', 'Ursus arctos']",80,brain
+923,923,['plate'],80,place
+964,964,['potpie'],80,pope
+662,662,['modem'],80,model
+226,226,['briard'],80,bird
+314,314,"['cockroach', 'roach']",80,coach
+337,337,['beaver'],80,beer
+775,775,['sarong'],80,song
+889,889,"['violin', 'fiddle']",80,file
+977,977,"['sandbar', 'sand bar']",80,standard
+621,621,"['lawn mower', 'mower']",80,rower
+626,626,"['lighter', 'light', 'igniter', 'ignitor']",80,minister
+988,988,['acorn'],80,actor
+40,40,"['American chameleon', 'anole', 'Anolis carolinensis']",80,noble

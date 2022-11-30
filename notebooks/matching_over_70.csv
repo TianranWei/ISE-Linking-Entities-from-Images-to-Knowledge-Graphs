@@ -1,0 +1,194 @@
+,Class ID,imageNet_class,max_similarity_ratio,dbpedia_class
+870,870,"['tricycle', 'trike', 'velocipede']",78,motorcycle
+848,848,['tape player'],78,poker player
+707,707,"['pay-phone', 'pay-station']",78,station
+830,830,['stretcher'],78,streetcar
+784,784,['screwdriver'],78,screenwriter
+874,874,"['trolleybus', 'trolley coach', 'trackless trolley']",77,college coach
+395,395,"['gar', 'garfish', 'garpike', 'billfish', 'Lepisosteus osseus']",77,parish
+375,375,"['colobus', 'colobus monkey']",77,colour
+322,322,"['ringlet', 'ringlet butterfly']",77,single
+36,36,['terrapin'],77,train
+816,816,['spindle'],77,single
+472,472,['canoe'],77,canoeist
+791,791,['shopping cart'],77,shopping mall
+513,513,"['cornet', 'horn', 'trumpet', 'trump']",77,contest
+415,415,"['bakery', 'bakeshop', 'bakehouse']",77,battery
+412,412,"['ashcan', 'trash can', 'garbage can', 'wastebin', 'ash bin', 'ash-bin', 'ashbin', 'dustb', 'trash barrel', ""trash bin'"", '']",77,fashion
+845,845,['syringe'],77,single
+231,231,['collie'],77,college
+890,890,['volleyball'],77,volleyball coach
+990,990,"['buckeye', 'horse chestnut', 'conker']",77,conifer
+820,820,['steam locomotive'],77,locomotive
+828,828,['strainer'],77,train
+429,429,['baseball'],76,baseball team
+817,817,"['sports car', 'sport car']",76,sports team
+895,895,"['warplane', 'military plane']",76,military person
+560,560,['football helmet'],76,football match
+132,132,"['American egret', 'great white heron', 'Egretta albus']",76,American Leader
+671,671,"['mountain bike', 'all-terrain bike', 'off-roader']",76,mountain
+672,672,['mountain tent'],76,mountain
+64,64,['green mamba'],76,green alga
+400,400,"['academic gown', 'academic robe', ""judge's robe""]",76,academic journal
+733,733,['pole'],75,poem
+832,832,"['stupa', 'tope']",75,type
+451,451,"['bolo tie', 'bolo', 'bola tie', 'bola']",75,book
+725,725,"['pitcher', 'ewer']",75,beer
+847,847,"['tank', 'army tank', 'armored combat vehicle', 'armoured combat vehicle']",75,bank
+459,459,"['brassiere', 'bra', 'bandeau']",75,brain
+849,849,['teapot'],75,team sport
+536,536,"['dock', 'dockage', 'docking facility']",75,lock
+859,859,['toaster'],75,monastery
+578,578,['gown'],75,town
+541,541,"['drum', 'membranophone', 'tympan']",75,drug
+331,331,['hare'],75,area
+498,498,"['cinema', 'movie theater', 'movie theatre', 'movie house', 'picture palace']",75,movie genre
+978,978,"['seashore', 'coast', 'seacoast', 'sea-coast']",75,cat
+983,983,['scuba diver'],75,nascar driver
+650,650,"['microphone', 'mike']",75,dike
+655,655,"['miniskirt', 'mini']",75,mine
+23,23,['vulture'],75,Sculpture
+883,883,['vase'],75,case
+863,863,['totem pole'],75,temple
+637,637,"['mailbox', 'letter box']",75,letter
+714,714,"['pick', 'plectrum', 'plectron']",75,Election
+348,348,"['ram', 'tup']",75,drama
+7,7,['cock'],75,lock
+357,357,['mink'],75,mine
+494,494,"['chime', 'bell', 'gong']",75,song
+310,310,"['ant', 'emmet', 'pismire']",75,plant
+399,399,['abaya'],75,bay
+961,961,['dough'],75,dog
+425,425,['barn'],75,bank
+507,507,['combination lock'],75,combination drug
+555,555,"['fire engine', 'fire truck']",75,rocket engine
+806,806,['sock'],75,lock
+474,474,['cardigan'],75,cardinal
+427,427,"['barrel', 'cask']",75,case
+426,426,['barometer'],75,baronet
+867,867,"['trailer truck', 'tractor trailer', 'trucking rig', 'rig', 'articulated lorry', 'sem', '']",75,reign
+683,683,"['oboe', 'hautboy', 'hautbois']",75,bone
+421,421,"['bannister', 'banister', 'balustrade', 'balusters', 'handrail']",75,minister
+795,795,['ski'],75,skier
+944,944,"['artichoke', 'globe artichoke']",75,article
+577,577,"['gong', 'tam-tam']",75,song
+779,779,['school bus'],75,school
+908,908,['wing'],75,wine
+482,482,['cassette player'],74,chess player
+649,649,"['megalith', 'megalithic structure']",74,military structure
+736,736,"['pool table', 'billiard table', 'snooker table']",74,snooker player
+137,137,"['American coot', 'marsh hen', 'mud hen', 'water hen', 'Fulica americana']",74,water ride
+436,436,"['beach wagon', 'station wagon', 'wagon', 'estate car', 'beach waggon', 'station wagg', ""waggon'"", '']",74,station
+598,598,"['home theater', 'home theatre']",74,theatre
+213,213,"['Irish setter', 'red setter']",74,presenter
+405,405,"['airship', 'dirigible']",73,ship
+358,358,"['polecat', 'fitch', 'foulmart', 'foumart', 'Mustela putorius']",73,poet
+347,347,['bison'],73,prison
+379,379,"['howler monkey', 'howler']",73,rower
+192,192,"['cairn', 'cairn terrier']",73,casino
+750,750,"['quilt', 'comforter', 'comfort', 'puff']",73,fort
+746,746,"['puck', 'hockey puck']",73,hockey club
+769,769,"['rule', 'ruler']",73,curler
+774,774,['sandal'],73,canal
+316,316,"['cicada', 'cicala']",73,cycad
+311,311,"['grasshopper', 'hopper']",73,opera
+470,470,"['candle', 'taper', 'wax light']",73,canal
+292,292,"['tiger', 'Panthera tigris']",73,Singer
+792,792,['shovel'],73,hotel
+718,718,['pier'],73,painter
+488,488,['chain'],73,casino
+276,276,"['hyena', 'hyaena']",73,arena
+273,273,"['dingo', 'warrigal', 'warragal', 'Canis dingo']",73,ginkgo
+805,805,['soccer ball'],73,soccer club
+734,734,"['police van', 'police wagon', 'paddy wagon', 'patrol wagon', 'wagon', 'black Maria']",73,weapon
+824,824,['stole'],73,castle
+837,837,"['sunglasses', 'dark glasses', 'shades']",73,sales
+843,843,['swing'],73,single
+458,458,"['brass', 'memorial tablet', 'plaque']",73,place
+411,411,['apron'],73,person
+360,360,['otter'],73,letter
+950,950,['orange'],73,organ
+572,572,['goblet'],73,noble
+628,628,"['liner', 'ocean liner']",73,winery
+700,700,['paper towel'],73,Water tower
+148,148,"['killer whale', 'killer', 'orca', 'grampus', 'sea wolf', 'Orcinus orca']",73,skier
+106,106,['wombat'],73,woman
+101,101,['tusker'],73,skier
+517,517,['crane'],73,crater
+492,492,['chest'],73,cheese
+18,18,['magpie'],73,image
+695,695,['padlock'],73,lock
+706,706,"['patio', 'terrace']",73,race
+46,46,"['green lizard', 'Lacerta viridis']",73,green alga
+138,138,['bustard'],73,star
+692,692,['packet'],73,place
+708,708,"['pedestal', 'plinth', 'footstall']",73,plant
+545,545,"['electric fan', 'blower']",73,boxer
+168,168,['redbone'],73,bone
+675,675,['moving van'],73,moving image
+673,673,"['mouse', 'computer mouse']",73,museum
+361,361,"['skunk', 'polecat', 'wood pussy']",73,poet
+528,528,"['dial telephone', 'dial phone']",73,mobile phone
+499,499,"['cleaver', 'meat cleaver', 'chopper']",73,cave
+885,885,['velvet'],73,event
+595,595,"['harvester', 'reaper']",73,grape
+894,894,"['wardrobe', 'closet', 'press']",73,priest
+563,563,['fountain pen'],72,mountain pass
+567,567,"['frying pan', 'frypan', 'skillet']",72,flowering plant
+811,811,['space heater'],72,space shuttle
+756,756,['rain barrel'],72,train carriage
+122,122,"['American lobster', 'Northern lobster', 'Maine lobster', 'Homarus americanus']",71,American Leader
+387,387,"['lesser panda', 'red panda', 'panda', 'bear cat', 'cat bear', 'Ailurus fulgens']",71,crater
+444,444,"['bicycle-built-for-two', 'tandem bicycle', 'tandem']",71,Pandemic
+123,123,"['spiny lobster', 'langouste', 'rock lobster', 'crawfish', 'crayfish', 'sea crawfish']",71,language
+251,251,"['dalmatian', 'coach dog', 'carriage dog']",71,coach
+534,534,"['dishwasher', 'dish washer', 'dishwashing machine']",71,disease
+696,696,['paintbrush'],71,painter
+934,934,"['hotdog', 'hot dog', 'red hot']",71,radio host
+327,327,"['starfish', 'sea star']",71,parish
+392,392,"['rock beauty', 'Holocanthus tricolor']",71,rocket
+428,428,"['barrow', 'garden cart', 'lawn cart', 'wheelbarrow']",71,garden
+321,321,['admiral'],71,mineral
+790,790,['shopping basket'],71,shopping mall
+584,584,['hair slide'],71,airline
+295,295,"['American black bear', 'black bear', 'Ursus americanus', 'Euarctos americanus']",71,American Leader
+967,967,['espresso'],71,professor
+299,299,"['meerkat', 'mierkat']",71,mineral
+780,780,['schooner'],71,school
+66,66,"['horned viper', 'cerastes', 'sand viper', 'horned asp', 'Cerastes cornutus']",71,castle
+919,919,['street sign'],71,street
+596,596,['hatchet'],71,athlete
+506,506,"['coil', 'spiral', 'volute', 'whorl', 'helix']",71,hospital
+374,374,['langur'],71,language
+493,493,"['chiffonier', 'commode']",71,conifer
+469,469,"['caldron', 'cauldron']",71,cartoon
+631,631,['lotion'],71,Election
+460,460,"['breakwater', 'groin', 'groyne', 'mole', 'bulwark', 'seawall', 'jetty']",71,brewery
+481,481,['cassette'],71,castle
+162,162,['beagle'],71,beverage
+133,133,['bittern'],71,battery
+341,341,"['hog', 'pig', 'grunter', 'squealer', 'Sus scrofa']",71,square
+10,10,"['brambling', 'Fringilla montifringilla']",71,brain
+144,144,['pelican'],71,politician
+727,727,['planetarium'],71,planet
+575,575,"['golfcart', 'golf cart']",70,golf course
+807,807,"['solar dish', 'solar collector', 'solar furnace']",70,solar eclipse
+569,569,"['garbage truck', 'dustcart']",70,race track
+267,267,['standard poodle'],70,standard
+704,704,['parking meter'],70,painter
+100,100,"['black swan', 'Cygnus atratus']",70,back scene
+802,802,['snowmobile'],70,automobile
+729,729,['plate rack'],70,race track
+603,603,"['horse cart', 'horse-cart']",70,horse race
+939,939,"['zucchini', 'courgette']",70,country estate
+424,424,['barbershop'],70,archbishop
+586,586,['half track'],70,race track
+713,713,['photocopier'],70,photographer
+768,768,['rugby ball'],70,rugby club
+670,670,"['motor scooter', 'scooter']",70,motor race
+509,509,"['confectionery', 'confectionary', 'candy store']",70,convention
+403,403,"['aircraft carrier', 'carrier', 'flattop', 'attack aircraft carrier']",70,nascar driver
+485,485,['CD player'],70,golf player
+589,589,"['hand blower', 'blow dryer', 'blow drier', 'hair dryer', 'hair drier']",70,racing driver
+920,920,"['traffic light', 'traffic signal', 'stoplight']",70,track list
+127,127,"['white stork', 'Ciconia ciconia']",70,written work
