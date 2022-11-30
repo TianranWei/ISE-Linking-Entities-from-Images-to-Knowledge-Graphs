@@ -1,0 +1,7 @@
+,Class ID,imageNet_class,max_similarity_ratio,dbpedia_class
+404,404,['airliner'],93,airline
+478,478,['carton'],92,cartoon
+726,726,"['plane', ""carpenter's plane"", 'woodworking plane']",91,planet
+900,900,['water tower'],91,Water tower
+698,698,['palace'],91,place
+519,519,['crate'],91,crater
