@@ -1,0 +1,463 @@
+item,itemLabel,uri
+http://www.wikidata.org/entity/Q144,dog,http://wordnet-rdf.princeton.edu/wn30/02084071-n
+http://www.wikidata.org/entity/Q177,pizza,http://wordnet-rdf.princeton.edu/wn30/07873807-n
+http://www.wikidata.org/entity/Q5414,Great Dane,http://wordnet-rdf.princeton.edu/wn30/02109047-n
+http://www.wikidata.org/entity/Q7987,mouse,http://wordnet-rdf.princeton.edu/wn30/03793489-n
+http://www.wikidata.org/entity/Q11707,restaurant,http://wordnet-rdf.princeton.edu/wn30/04081281-n
+http://www.wikidata.org/entity/Q12876,tank,http://wordnet-rdf.princeton.edu/wn30/04389033-n
+http://www.wikidata.org/entity/Q7560,mother,http://wordnet-rdf.princeton.edu/wn30/10332385-n
+http://www.wikidata.org/entity/Q38751,Maltese,http://wordnet-rdf.princeton.edu/wn30/02085936-n
+http://www.wikidata.org/entity/Q41960,Ailurus fulgens,http://wordnet-rdf.princeton.edu/wn30/02509815-n
+http://www.wikidata.org/entity/Q42177,bed,http://wordnet-rdf.princeton.edu/wn30/02818832-n
+http://www.wikidata.org/entity/Q39777,maraca,http://wordnet-rdf.princeton.edu/wn30/03720891-n
+http://www.wikidata.org/entity/Q37507,match,http://wordnet-rdf.princeton.edu/wn30/03729826-n
+http://www.wikidata.org/entity/Q76280,tench,http://wordnet-rdf.princeton.edu/wn30/01440764-n
+http://www.wikidata.org/entity/Q75794,bubble,http://wordnet-rdf.princeton.edu/wn30/09229709-n
+http://www.wikidata.org/entity/Q79838,accordion,http://wordnet-rdf.princeton.edu/wn30/02672831-n
+http://www.wikidata.org/entity/Q81235,automated teller machine,http://wordnet-rdf.princeton.edu/wn30/02977058-n
+http://www.wikidata.org/entity/Q190858,Gazella,http://wordnet-rdf.princeton.edu/wn30/02423022-n
+http://www.wikidata.org/entity/Q188886,station wagon,http://wordnet-rdf.princeton.edu/wn30/02814533-n
+http://www.wikidata.org/entity/Q187140,beaker,http://wordnet-rdf.princeton.edu/wn30/02815834-n
+http://www.wikidata.org/entity/Q187359,diaper,http://wordnet-rdf.princeton.edu/wn30/03188531-n
+http://www.wikidata.org/entity/Q192411,handkerchief,http://wordnet-rdf.princeton.edu/wn30/03485794-n
+http://www.wikidata.org/entity/Q193897,paintbrush,http://wordnet-rdf.princeton.edu/wn30/03876231-n
+http://www.wikidata.org/entity/Q181890,plectrum,http://wordnet-rdf.princeton.edu/wn30/03929660-n
+http://www.wikidata.org/entity/Q215857,bookcase,http://wordnet-rdf.princeton.edu/wn30/02870880-n
+http://www.wikidata.org/entity/Q211584,vending machine,http://wordnet-rdf.princeton.edu/wn30/04525305-n
+http://www.wikidata.org/entity/Q127956,microwave oven,http://wordnet-rdf.princeton.edu/wn30/03761084-n
+http://www.wikidata.org/entity/Q134566,weighing scale,http://wordnet-rdf.princeton.edu/wn30/04141975-n
+http://www.wikidata.org/entity/Q181008,jigsaw puzzle,http://wordnet-rdf.princeton.edu/wn30/03598930-n
+http://www.wikidata.org/entity/Q178805,joystick,http://wordnet-rdf.princeton.edu/wn30/03602883-n
+http://www.wikidata.org/entity/Q181348,viaduct,http://wordnet-rdf.princeton.edu/wn30/04532670-n
+http://www.wikidata.org/entity/Q527395,knot,http://wordnet-rdf.princeton.edu/wn30/03627232-n
+http://www.wikidata.org/entity/Q258896,banjo,http://wordnet-rdf.princeton.edu/wn30/02787622-n
+http://www.wikidata.org/entity/Q268828,crutch,http://wordnet-rdf.princeton.edu/wn30/03141823-n
+http://www.wikidata.org/entity/Q281460,pipe organ,http://wordnet-rdf.princeton.edu/wn30/03854065-n
+http://www.wikidata.org/entity/Q311666,projector,http://wordnet-rdf.princeton.edu/wn30/04009552-n
+http://www.wikidata.org/entity/Q335297,pier,http://wordnet-rdf.princeton.edu/wn30/03933933-n
+http://www.wikidata.org/entity/Q322483,thimble,http://wordnet-rdf.princeton.edu/wn30/04423845-n
+http://www.wikidata.org/entity/Q321046,window blind,http://wordnet-rdf.princeton.edu/wn30/04590129-n
+http://www.wikidata.org/entity/Q322787,mashed potato,http://wordnet-rdf.princeton.edu/wn30/07711569-n
+http://www.wikidata.org/entity/Q482816,parachute,http://wordnet-rdf.princeton.edu/wn30/03888257-n
+http://www.wikidata.org/entity/Q468794,poncho,http://wordnet-rdf.princeton.edu/wn30/03980874-n
+http://www.wikidata.org/entity/Q516844,beer glass,http://wordnet-rdf.princeton.edu/wn30/02823750-n
+http://www.wikidata.org/entity/Q510176,cassette deck,http://wordnet-rdf.princeton.edu/wn30/02979186-n
+http://www.wikidata.org/entity/Q498439,plastic bag,http://wordnet-rdf.princeton.edu/wn30/03958227-n
+http://www.wikidata.org/entity/Q910768,window screen,http://wordnet-rdf.princeton.edu/wn30/04589890-n
+http://www.wikidata.org/entity/Q1056508,cervical collar,http://wordnet-rdf.princeton.edu/wn30/03814639-n
+http://www.wikidata.org/entity/Q689880,oil platform,http://wordnet-rdf.princeton.edu/wn30/03240683-n
+http://www.wikidata.org/entity/Q745751,Kit fox,http://wordnet-rdf.princeton.edu/wn30/02119789-n
+http://www.wikidata.org/entity/Q857319,Junco,http://wordnet-rdf.princeton.edu/wn30/01534433-n
+http://www.wikidata.org/entity/Q858236,breastplate,http://wordnet-rdf.princeton.edu/wn30/02895154-n
+http://www.wikidata.org/entity/Q852190,shipwreck,http://wordnet-rdf.princeton.edu/wn30/04606251-n
+http://www.wikidata.org/entity/Q2234382,sliding door,http://wordnet-rdf.princeton.edu/wn30/04239074-n
+http://www.wikidata.org/entity/Q15037754,go-kart,http://wordnet-rdf.princeton.edu/wn30/03444034-n
+http://www.wikidata.org/entity/Q4342445,stole,http://wordnet-rdf.princeton.edu/wn30/04325704-n
+http://www.wikidata.org/entity/Q16875637,transverse flute,http://wordnet-rdf.princeton.edu/wn30/03372029-n
+http://www.wikidata.org/entity/Q9166501,freight car,http://wordnet-rdf.princeton.edu/wn30/03393912-n
+http://www.wikidata.org/entity/Q786732,car wheel,http://wordnet-rdf.princeton.edu/wn30/02974003-n
+http://www.wikidata.org/entity/Q47519477,dial telephone,http://wordnet-rdf.princeton.edu/wn30/03187595-n
+http://www.wikidata.org/entity/Q653,Chihuahua,http://wordnet-rdf.princeton.edu/wn30/02085620-n
+http://www.wikidata.org/entity/Q391752,bulletproof vest,http://wordnet-rdf.princeton.edu/wn30/02916936-n
+http://www.wikidata.org/entity/Q483634,iron,http://wordnet-rdf.princeton.edu/wn30/03584829-n
+http://www.wikidata.org/entity/Q6573,Cricetinae,http://wordnet-rdf.princeton.edu/wn30/02342885-n
+http://www.wikidata.org/entity/Q5607,modem,http://wordnet-rdf.princeton.edu/wn30/03777754-n
+http://www.wikidata.org/entity/Q1827,red wine,http://wordnet-rdf.princeton.edu/wn30/07892512-n
+http://www.wikidata.org/entity/Q15343,platypus,http://wordnet-rdf.princeton.edu/wn30/01873310-n
+http://www.wikidata.org/entity/Q17700,Mink,http://wordnet-rdf.princeton.edu/wn30/02442845-n
+http://www.wikidata.org/entity/Q17205,aircraft carrier,http://wordnet-rdf.princeton.edu/wn30/02687172-n
+http://www.wikidata.org/entity/Q12714,can opener,http://wordnet-rdf.princeton.edu/wn30/02951585-n
+http://www.wikidata.org/entity/Q12493,dome,http://wordnet-rdf.princeton.edu/wn30/03220513-n
+http://www.wikidata.org/entity/Q20463,garbage truck,http://wordnet-rdf.princeton.edu/wn30/03417042-n
+http://www.wikidata.org/entity/Q12796,firearm,http://wordnet-rdf.princeton.edu/wn30/03467984-n
+http://www.wikidata.org/entity/Q12570,suspension bridge,http://wordnet-rdf.princeton.edu/wn30/04366367-n
+http://www.wikidata.org/entity/Q13191,orange,http://wordnet-rdf.princeton.edu/wn30/07747607-n
+http://www.wikidata.org/entity/Q614379,scoreboard,http://wordnet-rdf.princeton.edu/wn30/04149813-n
+http://www.wikidata.org/entity/Q721171,Paralithodes camtschaticus,http://wordnet-rdf.princeton.edu/wn30/01981276-n
+http://www.wikidata.org/entity/Q42610,Persian cat,http://wordnet-rdf.princeton.edu/wn30/02123394-n
+http://www.wikidata.org/entity/Q40607,padlock,http://wordnet-rdf.princeton.edu/wn30/03874599-n
+http://www.wikidata.org/entity/Q56155,desktop computer,http://wordnet-rdf.princeton.edu/wn30/03180011-n
+http://www.wikidata.org/entity/Q246514,tennis ball,http://wordnet-rdf.princeton.edu/wn30/04409515-n
+http://www.wikidata.org/entity/Q274153,water tower,http://wordnet-rdf.princeton.edu/wn30/04562935-n
+http://www.wikidata.org/entity/Q839818,shower curtain,http://wordnet-rdf.princeton.edu/wn30/04209239-n
+http://www.wikidata.org/entity/Q843994,stopwatch,http://wordnet-rdf.princeton.edu/wn30/04328186-n
+http://www.wikidata.org/entity/Q25418,European Goldfinch,http://wordnet-rdf.princeton.edu/wn30/01531178-n
+http://www.wikidata.org/entity/Q39285,Staffordshire Bull Terrier,http://wordnet-rdf.princeton.edu/wn30/02093256-n
+http://www.wikidata.org/entity/Q37077,nail,http://wordnet-rdf.princeton.edu/wn30/03804744-n
+http://www.wikidata.org/entity/Q113297,black widow spider,http://wordnet-rdf.princeton.edu/wn30/01774384-n
+http://www.wikidata.org/entity/Q124282,dock,http://wordnet-rdf.princeton.edu/wn30/03216828-n
+http://www.wikidata.org/entity/Q131746,perfume,http://wordnet-rdf.princeton.edu/wn30/03916031-n
+http://www.wikidata.org/entity/Q159404,bullfrog,http://wordnet-rdf.princeton.edu/wn30/01641577-n
+http://www.wikidata.org/entity/Q938509,cleaver,http://wordnet-rdf.princeton.edu/wn30/03041632-n
+http://www.wikidata.org/entity/Q1043897,barbell,http://wordnet-rdf.princeton.edu/wn30/02790996-n
+http://www.wikidata.org/entity/Q1064858,desk,http://wordnet-rdf.princeton.edu/wn30/03179701-n
+http://www.wikidata.org/entity/Q1064538,quilt,http://wordnet-rdf.princeton.edu/wn30/04033995-n
+http://www.wikidata.org/entity/Q178692,crane,http://wordnet-rdf.princeton.edu/wn30/03126707-n
+http://www.wikidata.org/entity/Q179904,hourglass,http://wordnet-rdf.princeton.edu/wn30/03544143-n
+http://www.wikidata.org/entity/Q189299,necklace,http://wordnet-rdf.princeton.edu/wn30/03814906-n
+http://www.wikidata.org/entity/Q185369,photocopier,http://wordnet-rdf.princeton.edu/wn30/03924679-n
+http://www.wikidata.org/entity/Q189290,military officer,http://wordnet-rdf.princeton.edu/wn30/10317007-n
+http://www.wikidata.org/entity/Q207058,Gila monster,http://wordnet-rdf.princeton.edu/wn30/01692333-n
+http://www.wikidata.org/entity/Q206338,Isopoda,http://wordnet-rdf.princeton.edu/wn30/01990800-n
+http://www.wikidata.org/entity/Q208043,Lar Gibbon,http://wordnet-rdf.princeton.edu/wn30/02483362-n
+http://www.wikidata.org/entity/Q193811,pencil sharpener,http://wordnet-rdf.princeton.edu/wn30/03908714-n
+http://www.wikidata.org/entity/Q213777,tape recorder,http://wordnet-rdf.princeton.edu/wn30/04392985-n
+http://www.wikidata.org/entity/Q1210743,espresso machine,http://wordnet-rdf.princeton.edu/wn30/03297495-n
+http://www.wikidata.org/entity/Q4063215,quill,http://wordnet-rdf.princeton.edu/wn30/04033901-n
+http://www.wikidata.org/entity/Q1971570,flagpole,http://wordnet-rdf.princeton.edu/wn30/03355925-n
+http://www.wikidata.org/entity/Q2051212,handrail,http://wordnet-rdf.princeton.edu/wn30/02788148-n
+http://www.wikidata.org/entity/Q10385865,bath towel,http://wordnet-rdf.princeton.edu/wn30/02808304-n
+http://www.wikidata.org/entity/Q2858617,reflex camera,http://wordnet-rdf.princeton.edu/wn30/04069434-n
+http://www.wikidata.org/entity/Q2881344,rugby ball,http://wordnet-rdf.princeton.edu/wn30/04118538-n
+http://www.wikidata.org/entity/Q13402959,high-speed train,http://wordnet-rdf.princeton.edu/wn30/02917067-n
+http://www.wikidata.org/entity/Q19385373,pirate ship,http://wordnet-rdf.princeton.edu/wn30/03947888-n
+http://www.wikidata.org/entity/Q21159303,cradle,http://wordnet-rdf.princeton.edu/wn30/03125729-n
+http://www.wikidata.org/entity/Q38110559,coffee mug,http://wordnet-rdf.princeton.edu/wn30/03063599-n
+http://www.wikidata.org/entity/Q7386,Formicidae,http://wordnet-rdf.princeton.edu/wn30/02219486-n
+http://www.wikidata.org/entity/Q16970,church building,http://wordnet-rdf.princeton.edu/wn30/03028079-n
+http://www.wikidata.org/entity/Q15004,hair dryer,http://wordnet-rdf.princeton.edu/wn30/03483316-n
+http://www.wikidata.org/entity/Q9479,iPod,http://wordnet-rdf.princeton.edu/wn30/03584254-n
+http://www.wikidata.org/entity/Q8377,oboe,http://wordnet-rdf.princeton.edu/wn30/03838899-n
+http://www.wikidata.org/entity/Q12408,caliper,http://wordnet-rdf.princeton.edu/wn30/04238763-n
+http://www.wikidata.org/entity/Q23413,castle,http://wordnet-rdf.princeton.edu/wn30/02980441-n
+http://www.wikidata.org/entity/Q28337,shoal,http://wordnet-rdf.princeton.edu/wn30/09421951-n
+http://www.wikidata.org/entity/Q4439,hard disk drive,http://wordnet-rdf.princeton.edu/wn30/03492542-n
+http://www.wikidata.org/entity/Q3010,boy,http://wordnet-rdf.princeton.edu/wn30/10624074-n
+http://www.wikidata.org/entity/Q5840,toilet paper,http://wordnet-rdf.princeton.edu/wn30/15075141-n
+http://www.wikidata.org/entity/Q37821,Briard,http://wordnet-rdf.princeton.edu/wn30/02105251-n
+http://www.wikidata.org/entity/Q38990,Miniature Pinscher,http://wordnet-rdf.princeton.edu/wn30/02107312-n
+http://www.wikidata.org/entity/Q47107,bucket,http://wordnet-rdf.princeton.edu/wn30/02909870-n
+http://www.wikidata.org/entity/Q37144,cartridge,http://wordnet-rdf.princeton.edu/wn30/02971691-n
+http://www.wikidata.org/entity/Q49013,sewing machine,http://wordnet-rdf.princeton.edu/wn30/04179913-n
+http://www.wikidata.org/entity/Q48806,Space Shuttle,http://wordnet-rdf.princeton.edu/wn30/04266014-n
+http://www.wikidata.org/entity/Q840333,safety pin,http://wordnet-rdf.princeton.edu/wn30/04127249-n
+http://www.wikidata.org/entity/Q828361,mop,http://wordnet-rdf.princeton.edu/wn30/04367480-n
+http://www.wikidata.org/entity/Q79803,Cavia porcellus,http://wordnet-rdf.princeton.edu/wn30/02364673-n
+http://www.wikidata.org/entity/Q78987,electric guitar,http://wordnet-rdf.princeton.edu/wn30/03272010-n
+http://www.wikidata.org/entity/Q123141,goldfish,http://wordnet-rdf.princeton.edu/wn30/01443537-n
+http://www.wikidata.org/entity/Q116191,toilet seat,http://wordnet-rdf.princeton.edu/wn30/04447861-n
+http://www.wikidata.org/entity/Q887471,boa,http://wordnet-rdf.princeton.edu/wn30/03325584-n
+http://www.wikidata.org/entity/Q974850,missile,http://wordnet-rdf.princeton.edu/wn30/03773504-n
+http://www.wikidata.org/entity/Q966668,punching bag,http://wordnet-rdf.princeton.edu/wn30/04023962-n
+http://www.wikidata.org/entity/Q1058689,hair spray,http://wordnet-rdf.princeton.edu/wn30/03476991-n
+http://www.wikidata.org/entity/Q131044,Black Swan,http://wordnet-rdf.princeton.edu/wn30/01860187-n
+http://www.wikidata.org/entity/Q143912,triumphal arch,http://wordnet-rdf.princeton.edu/wn30/04486054-n
+http://www.wikidata.org/entity/Q140565,sink,http://wordnet-rdf.princeton.edu/wn30/04553703-n
+http://www.wikidata.org/entity/Q161071,screwdriver,http://wordnet-rdf.princeton.edu/wn30/04154565-n
+http://www.wikidata.org/entity/Q175334,wheelbarrow,http://wordnet-rdf.princeton.edu/wn30/02797295-n
+http://www.wikidata.org/entity/Q182731,cuirass,http://wordnet-rdf.princeton.edu/wn30/03146219-n
+http://www.wikidata.org/entity/Q186263,dishwasher,http://wordnet-rdf.princeton.edu/wn30/03207941-n
+http://www.wikidata.org/entity/Q185091,Laye laye,http://wordnet-rdf.princeton.edu/wn30/04074963-n
+http://www.wikidata.org/entity/Q170382,revolver,http://wordnet-rdf.princeton.edu/wn30/04086273-n
+http://www.wikidata.org/entity/Q172226,ski,http://wordnet-rdf.princeton.edu/wn30/04228054-n
+http://www.wikidata.org/entity/Q2746643,fig,http://wordnet-rdf.princeton.edu/wn30/07753113-n
+http://www.wikidata.org/entity/Q1146283,turnstile,http://wordnet-rdf.princeton.edu/wn30/04501370-n
+http://www.wikidata.org/entity/Q1139975,waffle iron,http://wordnet-rdf.princeton.edu/wn30/04542943-n
+http://www.wikidata.org/entity/Q208322,carousel,http://wordnet-rdf.princeton.edu/wn30/02966193-n
+http://www.wikidata.org/entity/Q204577,schooner,http://wordnet-rdf.princeton.edu/wn30/04147183-n
+http://www.wikidata.org/entity/Q215376,green iguana,http://wordnet-rdf.princeton.edu/wn30/01677366-n
+http://www.wikidata.org/entity/Q230502,Zygoptera,http://wordnet-rdf.princeton.edu/wn30/02268853-n
+http://www.wikidata.org/entity/Q221994,piggy bank,http://wordnet-rdf.princeton.edu/wn30/03935335-n
+http://www.wikidata.org/entity/Q272502,bagel,http://wordnet-rdf.princeton.edu/wn30/07693725-n
+http://www.wikidata.org/entity/Q3487546,picket fence,http://wordnet-rdf.princeton.edu/wn30/03930313-n
+http://www.wikidata.org/entity/Q1308084,shopping basket,http://wordnet-rdf.princeton.edu/wn30/04204238-n
+http://www.wikidata.org/entity/Q12069731,space heater,http://wordnet-rdf.princeton.edu/wn30/04265275-n
+http://www.wikidata.org/entity/Q3887135,sea lion,http://wordnet-rdf.princeton.edu/wn30/02077923-n
+http://www.wikidata.org/entity/Q326735,sombrero,http://wordnet-rdf.princeton.edu/wn30/04259630-n
+http://www.wikidata.org/entity/Q12888135,candle,http://wordnet-rdf.princeton.edu/wn30/02948072-n
+http://www.wikidata.org/entity/Q2011752,lens cover,http://wordnet-rdf.princeton.edu/wn30/03657121-n
+http://www.wikidata.org/entity/Q1746393,lifeboat,http://wordnet-rdf.princeton.edu/wn30/03662601-n
+http://www.wikidata.org/entity/Q667478,cheeseburger,http://wordnet-rdf.princeton.edu/wn30/07697313-n
+http://www.wikidata.org/entity/Q20078304,wing,http://wordnet-rdf.princeton.edu/wn30/04592741-n
+http://www.wikidata.org/entity/Q36641511,table lamp,http://wordnet-rdf.princeton.edu/wn30/04380533-n
+http://www.wikidata.org/entity/Q47524465,Windsor tie,http://wordnet-rdf.princeton.edu/wn30/04591157-n
+http://www.wikidata.org/entity/Q48551563,pop bottle,http://wordnet-rdf.princeton.edu/wn30/03983396-n
+http://www.wikidata.org/entity/Q37789,English Foxhound,http://wordnet-rdf.princeton.edu/wn30/02089973-n
+http://www.wikidata.org/entity/Q42046,Hyaena,http://wordnet-rdf.princeton.edu/wn30/02117135-n
+http://www.wikidata.org/entity/Q35127,website,http://wordnet-rdf.princeton.edu/wn30/06359193-n
+http://www.wikidata.org/entity/Q45778,mortar,http://wordnet-rdf.princeton.edu/wn30/03786901-n
+http://www.wikidata.org/entity/Q1420,motor car,http://wordnet-rdf.princeton.edu/wn30/02958343-n
+http://www.wikidata.org/entity/Q11404,drum,http://wordnet-rdf.princeton.edu/wn30/03249569-n
+http://www.wikidata.org/entity/Q25327,Coccinellidae,http://wordnet-rdf.princeton.edu/wn30/02165456-n
+http://www.wikidata.org/entity/Q25349,starfish,http://wordnet-rdf.princeton.edu/wn30/02317335-n
+http://www.wikidata.org/entity/Q82916,spotlight,http://wordnet-rdf.princeton.edu/wn30/04286575-n
+http://www.wikidata.org/entity/Q124072,rifle,http://wordnet-rdf.princeton.edu/wn30/04090263-n
+http://www.wikidata.org/entity/Q106106,wardrobe,http://wordnet-rdf.princeton.edu/wn30/04550184-n
+http://www.wikidata.org/entity/Q155878,Black Grouse,http://wordnet-rdf.princeton.edu/wn30/01795545-n
+http://www.wikidata.org/entity/Q159998,bassoon,http://wordnet-rdf.princeton.edu/wn30/02804610-n
+http://www.wikidata.org/entity/Q189609,Red-breasted Merganser,http://wordnet-rdf.princeton.edu/wn30/01855032-n
+http://www.wikidata.org/entity/Q183951,balloon,http://wordnet-rdf.princeton.edu/wn30/02782093-n
+http://www.wikidata.org/entity/Q193358,ladle,http://wordnet-rdf.princeton.edu/wn30/03633091-n
+http://www.wikidata.org/entity/Q184191,lipstick,http://wordnet-rdf.princeton.edu/wn30/03676483-n
+http://www.wikidata.org/entity/Q187780,ocarina,http://wordnet-rdf.princeton.edu/wn30/03840681-n
+http://www.wikidata.org/entity/Q208490,Sphyrnidae,http://wordnet-rdf.princeton.edu/wn30/01494475-n
+http://www.wikidata.org/entity/Q208281,fire engine,http://wordnet-rdf.princeton.edu/wn30/03345487-n
+http://www.wikidata.org/entity/Q208364,wok,http://wordnet-rdf.princeton.edu/wn30/04596742-n
+http://www.wikidata.org/entity/Q230823,miniskirt,http://wordnet-rdf.princeton.edu/wn30/03770439-n
+http://www.wikidata.org/entity/Q245005,teapot,http://wordnet-rdf.princeton.edu/wn30/04398044-n
+http://www.wikidata.org/entity/Q460967,American Robin,http://wordnet-rdf.princeton.edu/wn30/01558993-n
+http://www.wikidata.org/entity/Q1440281,bottle cap,http://wordnet-rdf.princeton.edu/wn30/02877765-n
+http://www.wikidata.org/entity/Q796894,shopping cart,http://wordnet-rdf.princeton.edu/wn30/04204347-n
+http://www.wikidata.org/entity/Q915110,paper knife,http://wordnet-rdf.princeton.edu/wn30/03658185-n
+http://www.wikidata.org/entity/Q900977,payphone,http://wordnet-rdf.princeton.edu/wn30/03902125-n
+http://www.wikidata.org/entity/Q930252,Anolis carolinensis,http://wordnet-rdf.princeton.edu/wn30/01682714-n
+http://www.wikidata.org/entity/Q947686,lampshade,http://wordnet-rdf.princeton.edu/wn30/03637318-n
+http://www.wikidata.org/entity/Q661140,scabbard,http://wordnet-rdf.princeton.edu/wn30/04141327-n
+http://www.wikidata.org/entity/Q697196,ocean liner,http://wordnet-rdf.princeton.edu/wn30/03673027-n
+http://www.wikidata.org/entity/Q696265,mosquito net,http://wordnet-rdf.princeton.edu/wn30/03788365-n
+http://www.wikidata.org/entity/Q692104,parallel bars,http://wordnet-rdf.princeton.edu/wn30/03888605-n
+http://www.wikidata.org/entity/Q1620264,mail bag,http://wordnet-rdf.princeton.edu/wn30/03709823-n
+http://www.wikidata.org/entity/Q1072900,space bar,http://wordnet-rdf.princeton.edu/wn30/04264628-n
+http://www.wikidata.org/entity/Q1148709,grand piano,http://wordnet-rdf.princeton.edu/wn30/03452741-n
+http://www.wikidata.org/entity/Q1223829,porcupine,http://wordnet-rdf.princeton.edu/wn30/02346627-n
+http://www.wikidata.org/entity/Q1295201,grocery store,http://wordnet-rdf.princeton.edu/wn30/03461385-n
+http://www.wikidata.org/entity/Q2108247,Ambystoma maculatum,http://wordnet-rdf.princeton.edu/wn30/01632458-n
+http://www.wikidata.org/entity/Q2474207,loupe,http://wordnet-rdf.princeton.edu/wn30/03692522-n
+http://www.wikidata.org/entity/Q2735883,cucumber,http://wordnet-rdf.princeton.edu/wn30/07718472-n
+http://www.wikidata.org/entity/Q3007072,mixing bowl,http://wordnet-rdf.princeton.edu/wn30/03775546-n
+http://www.wikidata.org/entity/Q10552108,kitchen table,http://wordnet-rdf.princeton.edu/wn30/03201208-n
+http://www.wikidata.org/entity/Q17130629,hoop skirt,http://wordnet-rdf.princeton.edu/wn30/03534580-n
+http://www.wikidata.org/entity/Q19968163,sweat shirt,http://wordnet-rdf.princeton.edu/wn30/04370456-n
+http://www.wikidata.org/entity/Q25221956,packet,http://wordnet-rdf.princeton.edu/wn30/03871628-n
+http://www.wikidata.org/entity/Q38309,English Setter,http://wordnet-rdf.princeton.edu/wn30/02100735-n
+http://www.wikidata.org/entity/Q39138,Sussex Spaniel,http://wordnet-rdf.princeton.edu/wn30/02102480-n
+http://www.wikidata.org/entity/Q35255,cougar,http://wordnet-rdf.princeton.edu/wn30/02125311-n
+http://www.wikidata.org/entity/Q41253,movie theater,http://wordnet-rdf.princeton.edu/wn30/03032252-n
+http://www.wikidata.org/entity/Q43663,sock,http://wordnet-rdf.princeton.edu/wn30/04254777-n
+http://www.wikidata.org/entity/Q39816,valley,http://wordnet-rdf.princeton.edu/wn30/09468604-n
+http://www.wikidata.org/entity/Q3962,laptop,http://wordnet-rdf.princeton.edu/wn30/03642806-n
+http://www.wikidata.org/entity/Q570,loudspeaker,http://wordnet-rdf.princeton.edu/wn30/03691459-n
+http://www.wikidata.org/entity/Q15148,spatula,http://wordnet-rdf.princeton.edu/wn30/04270147-n
+http://www.wikidata.org/entity/Q5320,electrical switch,http://wordnet-rdf.princeton.edu/wn30/04372370-n
+http://www.wikidata.org/entity/Q14890,toaster,http://wordnet-rdf.princeton.edu/wn30/04442312-n
+http://www.wikidata.org/entity/Q8004,traffic light,http://wordnet-rdf.princeton.edu/wn30/06874185-n
+http://www.wikidata.org/entity/Q18859,Common Redshank,http://wordnet-rdf.princeton.edu/wn30/02028035-n
+http://www.wikidata.org/entity/Q26843,orca,http://wordnet-rdf.princeton.edu/wn30/02071294-n
+http://www.wikidata.org/entity/Q23668,beer bottle,http://wordnet-rdf.princeton.edu/wn30/02823428-n
+http://www.wikidata.org/entity/Q16406,smoke shop,http://wordnet-rdf.princeton.edu/wn30/04443257-n
+http://www.wikidata.org/entity/Q58678,school bus,http://wordnet-rdf.princeton.edu/wn30/04146614-n
+http://www.wikidata.org/entity/Q62792,conch,http://wordnet-rdf.princeton.edu/wn30/01943899-n
+http://www.wikidata.org/entity/Q99895,pillow,http://wordnet-rdf.princeton.edu/wn30/03938244-n
+http://www.wikidata.org/entity/Q104555,ruler,http://wordnet-rdf.princeton.edu/wn30/04118776-n
+http://www.wikidata.org/entity/Q124441,washing machine,http://wordnet-rdf.princeton.edu/wn30/04554684-n
+http://www.wikidata.org/entity/Q105507,wig,http://wordnet-rdf.princeton.edu/wn30/04584207-n
+http://www.wikidata.org/entity/Q133585,airship,http://wordnet-rdf.princeton.edu/wn30/02692877-n
+http://www.wikidata.org/entity/Q128015,guillotine,http://wordnet-rdf.princeton.edu/wn30/03467068-n
+http://www.wikidata.org/entity/Q160137,ballpoint pen,http://wordnet-rdf.princeton.edu/wn30/02783161-n
+http://www.wikidata.org/entity/Q162339,stethoscope,http://wordnet-rdf.princeton.edu/wn30/04317175-n
+http://www.wikidata.org/entity/Q177456,assault rifle,http://wordnet-rdf.princeton.edu/wn30/02749479-n
+http://www.wikidata.org/entity/Q172833,broom,http://wordnet-rdf.princeton.edu/wn30/02906734-n
+http://www.wikidata.org/entity/Q180289,espresso,http://wordnet-rdf.princeton.edu/wn30/07920052-n
+http://www.wikidata.org/entity/Q188212,Galeocerdo cuvier,http://wordnet-rdf.princeton.edu/wn30/01491361-n
+http://www.wikidata.org/entity/Q192095,loggerhead sea turtle,http://wordnet-rdf.princeton.edu/wn30/01664065-n
+http://www.wikidata.org/entity/Q193327,American alligator,http://wordnet-rdf.princeton.edu/wn30/01698640-n
+http://www.wikidata.org/entity/Q188029,Phasmatodea,http://wordnet-rdf.princeton.edu/wn30/02231487-n
+http://www.wikidata.org/entity/Q190403,catamaran,http://wordnet-rdf.princeton.edu/wn30/02981792-n
+http://www.wikidata.org/entity/Q188669,fireplace,http://wordnet-rdf.princeton.edu/wn30/03346455-n
+http://www.wikidata.org/entity/Q194428,stage,http://wordnet-rdf.princeton.edu/wn30/04296562-n
+http://www.wikidata.org/entity/Q220971,marimba,http://wordnet-rdf.princeton.edu/wn30/03721384-n
+http://www.wikidata.org/entity/Q240502,racket,http://wordnet-rdf.princeton.edu/wn30/04039381-n
+http://www.wikidata.org/entity/Q869381,flowerpot,http://wordnet-rdf.princeton.edu/wn30/03991062-n
+http://www.wikidata.org/entity/Q919777,golf ball,http://wordnet-rdf.princeton.edu/wn30/03445777-n
+http://www.wikidata.org/entity/Q465453,dumbbell,http://wordnet-rdf.princeton.edu/wn30/03255030-n
+http://www.wikidata.org/entity/Q470016,American Coot,http://wordnet-rdf.princeton.edu/wn30/02018207-n
+http://www.wikidata.org/entity/Q501566,Frill-necked Lizard,http://wordnet-rdf.princeton.edu/wn30/01688243-n
+http://www.wikidata.org/entity/Q506040,Granny Smith,http://wordnet-rdf.princeton.edu/wn30/07742313-n
+http://www.wikidata.org/entity/Q322781,sarong,http://wordnet-rdf.princeton.edu/wn30/04136333-n
+http://www.wikidata.org/entity/Q327954,torch,http://wordnet-rdf.princeton.edu/wn30/04456115-n
+http://www.wikidata.org/entity/Q3444710,carton,http://wordnet-rdf.princeton.edu/wn30/02971356-n
+http://www.wikidata.org/entity/Q2436595,table tennis ball,http://wordnet-rdf.princeton.edu/wn30/03942813-n
+http://www.wikidata.org/entity/Q654290,trench coat,http://wordnet-rdf.princeton.edu/wn30/04479046-n
+http://www.wikidata.org/entity/Q673687,racing automobile,http://wordnet-rdf.princeton.edu/wn30/04037443-n
+http://www.wikidata.org/entity/Q1137441,yawl,http://wordnet-rdf.princeton.edu/wn30/04612504-n
+http://www.wikidata.org/entity/Q1317634,cauldron,http://wordnet-rdf.princeton.edu/wn30/02939185-n
+http://www.wikidata.org/entity/Q1354040,white coat,http://wordnet-rdf.princeton.edu/wn30/03630383-n
+http://www.wikidata.org/entity/Q1444534,tripod,http://wordnet-rdf.princeton.edu/wn30/04485082-n
+http://www.wikidata.org/entity/Q4243098,hook,http://wordnet-rdf.princeton.edu/wn30/03532672-n
+http://www.wikidata.org/entity/Q1721055,coffeepot,http://wordnet-rdf.princeton.edu/wn30/03063689-n
+http://www.wikidata.org/entity/Q1762390,wooden spoon,http://wordnet-rdf.princeton.edu/wn30/04597913-n
+http://www.wikidata.org/entity/Q1890958,oxygen mask,http://wordnet-rdf.princeton.edu/wn30/03868863-n
+http://www.wikidata.org/entity/Q1906859,chain-link fencing,http://wordnet-rdf.princeton.edu/wn30/03000134-n
+http://www.wikidata.org/entity/Q10817602,pineapple,http://wordnet-rdf.princeton.edu/wn30/07753275-n
+http://www.wikidata.org/entity/Q17053748,Chickadee,http://wordnet-rdf.princeton.edu/wn30/01592084-n
+http://www.wikidata.org/entity/Q21980641,barbershop,http://wordnet-rdf.princeton.edu/wn30/02791270-n
+http://www.wikidata.org/entity/Q28659441,rain barrel,http://wordnet-rdf.princeton.edu/wn30/04049303-n
+http://www.wikidata.org/entity/Q5185,Nematoda,http://wordnet-rdf.princeton.edu/wn30/01930112-n
+http://www.wikidata.org/entity/Q5843,backpack,http://wordnet-rdf.princeton.edu/wn30/02769748-n
+http://www.wikidata.org/entity/Q14125,bow tie,http://wordnet-rdf.princeton.edu/wn30/02883205-n
+http://www.wikidata.org/entity/Q16560,palace,http://wordnet-rdf.princeton.edu/wn30/03877845-n
+http://www.wikidata.org/entity/Q14963,rocking chair,http://wordnet-rdf.princeton.edu/wn30/04099969-n
+http://www.wikidata.org/entity/Q14976,snowplow,http://wordnet-rdf.princeton.edu/wn30/04252225-n
+http://www.wikidata.org/entity/Q30178,jellyfish,http://wordnet-rdf.princeton.edu/wn30/01910747-n
+http://www.wikidata.org/entity/Q30197,Panthera uncia,http://wordnet-rdf.princeton.edu/wn30/02128757-n
+http://www.wikidata.org/entity/Q23490,wine bottle,http://wordnet-rdf.princeton.edu/wn30/04591713-n
+http://www.wikidata.org/entity/Q171529,canoe,http://wordnet-rdf.princeton.edu/wn30/02951358-n
+http://www.wikidata.org/entity/Q182916,gondola,http://wordnet-rdf.princeton.edu/wn30/03447447-n
+http://www.wikidata.org/entity/Q200764,bookstore,http://wordnet-rdf.princeton.edu/wn30/02871525-n
+http://www.wikidata.org/entity/Q191851,vase,http://wordnet-rdf.princeton.edu/wn30/04522168-n
+http://www.wikidata.org/entity/Q204917,whistle,http://wordnet-rdf.princeton.edu/wn30/04579432-n
+http://www.wikidata.org/entity/Q101674,vacuum cleaner,http://wordnet-rdf.princeton.edu/wn30/04517823-n
+http://www.wikidata.org/entity/Q129026,great white shark,http://wordnet-rdf.princeton.edu/wn30/01484850-n
+http://www.wikidata.org/entity/Q129544,dugong,http://wordnet-rdf.princeton.edu/wn30/02074367-n
+http://www.wikidata.org/entity/Q131250,Mantodea,http://wordnet-rdf.princeton.edu/wn30/02236044-n
+http://www.wikidata.org/entity/Q152095,bathtub,http://wordnet-rdf.princeton.edu/wn30/02808440-n
+http://www.wikidata.org/entity/Q148319,planetarium,http://wordnet-rdf.princeton.edu/wn30/03956157-n
+http://www.wikidata.org/entity/Q162029,Lagopus,http://wordnet-rdf.princeton.edu/wn30/01796340-n
+http://www.wikidata.org/entity/Q168327,Capra ibex,http://wordnet-rdf.princeton.edu/wn30/02417914-n
+http://www.wikidata.org/entity/Q37929,Scottish Deerhound,http://wordnet-rdf.princeton.edu/wn30/02092002-n
+http://www.wikidata.org/entity/Q37558,Border Terrier,http://wordnet-rdf.princeton.edu/wn30/02093754-n
+http://www.wikidata.org/entity/Q37530,Australian Terrier,http://wordnet-rdf.princeton.edu/wn30/02096294-n
+http://www.wikidata.org/entity/Q46311,bow,http://wordnet-rdf.princeton.edu/wn30/02879718-n
+http://www.wikidata.org/entity/Q46384,microphone,http://wordnet-rdf.princeton.edu/wn30/03759954-n
+http://www.wikidata.org/entity/Q40357,prison,http://wordnet-rdf.princeton.edu/wn30/04005630-n
+http://www.wikidata.org/entity/Q37828,refrigerator,http://wordnet-rdf.princeton.edu/wn30/04070727-n
+http://www.wikidata.org/entity/Q83363,jeans,http://wordnet-rdf.princeton.edu/wn30/03594734-n
+http://www.wikidata.org/entity/Q76574,maypole,http://wordnet-rdf.princeton.edu/wn30/03733131-n
+http://www.wikidata.org/entity/Q83207,crossword,http://wordnet-rdf.princeton.edu/wn30/06785654-n
+http://www.wikidata.org/entity/Q102626,binoculars,http://wordnet-rdf.princeton.edu/wn30/02841315-n
+http://www.wikidata.org/entity/Q214638,sleeping bag,http://wordnet-rdf.princeton.edu/wn30/04235860-n
+http://www.wikidata.org/entity/Q273291,hermit crab,http://wordnet-rdf.princeton.edu/wn30/01986214-n
+http://www.wikidata.org/entity/Q1196123,military uniform,http://wordnet-rdf.princeton.edu/wn30/03763968-n
+http://www.wikidata.org/entity/Q1339732,dog sled,http://wordnet-rdf.princeton.edu/wn30/03218198-n
+http://www.wikidata.org/entity/Q412770,infant bed,http://wordnet-rdf.princeton.edu/wn30/02804414-n
+http://www.wikidata.org/entity/Q421904,ring binder,http://wordnet-rdf.princeton.edu/wn30/02840245-n
+http://www.wikidata.org/entity/Q483453,fountain,http://wordnet-rdf.princeton.edu/wn30/03388043-n
+http://www.wikidata.org/entity/Q483444,kimono,http://wordnet-rdf.princeton.edu/wn30/03617480-n
+http://www.wikidata.org/entity/Q1629107,filing cabinet,http://wordnet-rdf.princeton.edu/wn30/03337140-n
+http://www.wikidata.org/entity/Q623270,horizontal bar,http://wordnet-rdf.princeton.edu/wn30/03535780-n
+http://www.wikidata.org/entity/Q681515,knee pad,http://wordnet-rdf.princeton.edu/wn30/03623198-n
+http://www.wikidata.org/entity/Q745105,odometer,http://wordnet-rdf.princeton.edu/wn30/03841143-n
+http://www.wikidata.org/entity/Q753779,passenger car,http://wordnet-rdf.princeton.edu/wn30/03895866-n
+http://www.wikidata.org/entity/Q2374786,combination lock,http://wordnet-rdf.princeton.edu/wn30/03075370-n
+http://www.wikidata.org/entity/Q1888786,slip-on shoe,http://wordnet-rdf.princeton.edu/wn30/03680355-n
+http://www.wikidata.org/entity/Q1871151,lotion,http://wordnet-rdf.princeton.edu/wn30/03690938-n
+http://www.wikidata.org/entity/Q865054,baggage,http://wordnet-rdf.princeton.edu/wn30/02774630-n
+http://www.wikidata.org/entity/Q899266,Boletaceae,http://wordnet-rdf.princeton.edu/wn30/13054560-n
+http://www.wikidata.org/entity/Q906997,plunger,http://wordnet-rdf.princeton.edu/wn30/03970156-n
+http://www.wikidata.org/entity/Q927924,volleyball,http://wordnet-rdf.princeton.edu/wn30/04540053-n
+http://www.wikidata.org/entity/Q4126704,common chimpanzee,http://wordnet-rdf.princeton.edu/wn30/02481823-n
+http://www.wikidata.org/entity/Q1093742,lemon,http://wordnet-rdf.princeton.edu/wn30/07749582-n
+http://www.wikidata.org/entity/Q1138187,cowboy boot,http://wordnet-rdf.princeton.edu/wn30/03124043-n
+http://www.wikidata.org/entity/Q1138175,cowboy hat,http://wordnet-rdf.princeton.edu/wn30/03124170-n
+http://www.wikidata.org/entity/Q1160505,face powder,http://wordnet-rdf.princeton.edu/wn30/03314780-n
+http://www.wikidata.org/entity/Q1151042,paper towel,http://wordnet-rdf.princeton.edu/wn30/03887697-n
+http://www.wikidata.org/entity/Q7220961,shovel,http://wordnet-rdf.princeton.edu/wn30/04208210-n
+http://www.wikidata.org/entity/Q10304508,Ixodida,http://wordnet-rdf.princeton.edu/wn30/01776313-n
+http://www.wikidata.org/entity/Q14458220,strawberry,http://wordnet-rdf.princeton.edu/wn30/07745940-n
+http://www.wikidata.org/entity/Q19978874,liturgical costume,http://wordnet-rdf.princeton.edu/wn30/04532106-n
+http://www.wikidata.org/entity/Q25841836,electric fan,http://wordnet-rdf.princeton.edu/wn30/03271574-n
+http://www.wikidata.org/entity/Q47487920,pill bottle,http://wordnet-rdf.princeton.edu/wn30/03937543-n
+http://www.wikidata.org/entity/Q89579852,balance beam,http://wordnet-rdf.princeton.edu/wn30/02777292-n
+http://www.wikidata.org/entity/Q43447,centipede,http://wordnet-rdf.princeton.edu/wn30/01784675-n
+http://www.wikidata.org/entity/Q43624,Trochilidae,http://wordnet-rdf.princeton.edu/wn30/01833805-n
+http://www.wikidata.org/entity/Q35694,jaguar,http://wordnet-rdf.princeton.edu/wn30/02128925-n
+http://www.wikidata.org/entity/Q34505,hippopotamus,http://wordnet-rdf.princeton.edu/wn30/02398521-n
+http://www.wikidata.org/entity/Q41577,forklift truck,http://wordnet-rdf.princeton.edu/wn30/03384352-n
+http://www.wikidata.org/entity/Q44613,monastery,http://wordnet-rdf.princeton.edu/wn30/03781244-n
+http://www.wikidata.org/entity/Q12806,abacus,http://wordnet-rdf.princeton.edu/wn30/02666196-n
+http://www.wikidata.org/entity/Q17210,container ship,http://wordnet-rdf.princeton.edu/wn30/03095699-n
+http://www.wikidata.org/entity/Q11022,screw,http://wordnet-rdf.princeton.edu/wn30/04153751-n
+http://www.wikidata.org/entity/Q17592,common ostrich,http://wordnet-rdf.princeton.edu/wn30/01518878-n
+http://www.wikidata.org/entity/Q26395,fire salamander,http://wordnet-rdf.princeton.edu/wn30/01629819-n
+http://www.wikidata.org/entity/Q22718,axolotl,http://wordnet-rdf.princeton.edu/wn30/01632777-n
+http://www.wikidata.org/entity/Q17510,West Highland White Terrier,http://wordnet-rdf.princeton.edu/wn30/02098286-n
+http://www.wikidata.org/entity/Q25309,Blattodea,http://wordnet-rdf.princeton.edu/wn30/02233338-n
+http://www.wikidata.org/entity/Q31561,acoustic guitar,http://wordnet-rdf.princeton.edu/wn30/02676566-n
+http://www.wikidata.org/entity/Q4504,Varanus komodoensis,http://wordnet-rdf.princeton.edu/wn30/01695060-n
+http://www.wikidata.org/entity/Q250,computer keyboard,http://wordnet-rdf.princeton.edu/wn30/03085013-n
+http://www.wikidata.org/entity/Q168745,Nile crocodile,http://wordnet-rdf.princeton.edu/wn30/01697457-n
+http://www.wikidata.org/entity/Q179154,gray whale,http://wordnet-rdf.princeton.edu/wn30/02066245-n
+http://www.wikidata.org/entity/Q188877,Brambling,http://wordnet-rdf.princeton.edu/wn30/01530575-n
+http://www.wikidata.org/entity/Q188688,swing,http://wordnet-rdf.princeton.edu/wn30/04371774-n
+http://www.wikidata.org/entity/Q200724,Great Grey Owl,http://wordnet-rdf.princeton.edu/wn30/01622779-n
+http://www.wikidata.org/entity/Q215247,Lissotriton vulgaris,http://wordnet-rdf.princeton.edu/wn30/01630670-n
+http://www.wikidata.org/entity/Q217541,sunglasses,http://wordnet-rdf.princeton.edu/wn30/04356056-n
+http://www.wikidata.org/entity/Q216916,military aircraft,http://wordnet-rdf.princeton.edu/wn30/04552348-n
+http://www.wikidata.org/entity/Q51290,harmonica,http://wordnet-rdf.princeton.edu/wn30/03494278-n
+http://www.wikidata.org/entity/Q81714,Petri dish,http://wordnet-rdf.princeton.edu/wn30/03920288-n
+http://www.wikidata.org/entity/Q127216,Bald Eagle,http://wordnet-rdf.princeton.edu/wn30/01614925-n
+http://www.wikidata.org/entity/Q120043,leatherback sea turtle,http://wordnet-rdf.princeton.edu/wn30/01665541-n
+http://www.wikidata.org/entity/Q243519,velvet,http://wordnet-rdf.princeton.edu/wn30/04525038-n
+http://www.wikidata.org/entity/Q273318,syringe,http://wordnet-rdf.princeton.edu/wn30/04376876-n
+http://www.wikidata.org/entity/Q296984,oil filter,http://wordnet-rdf.princeton.edu/wn30/03843555-n
+http://www.wikidata.org/entity/Q1434845,dust jacket,http://wordnet-rdf.princeton.edu/wn30/07248320-n
+http://www.wikidata.org/entity/Q1023100,CD player,http://wordnet-rdf.princeton.edu/wn30/02988304-n
+http://www.wikidata.org/entity/Q1744391,folding chair,http://wordnet-rdf.princeton.edu/wn30/03376595-n
+http://www.wikidata.org/entity/Q1736293,cathode ray tube screen,http://wordnet-rdf.princeton.edu/wn30/04152593-n
+http://www.wikidata.org/entity/Q599901,chocolate syrup,http://wordnet-rdf.princeton.edu/wn30/07836838-n
+http://www.wikidata.org/entity/Q606777,maze,http://wordnet-rdf.princeton.edu/wn30/03733281-n
+http://www.wikidata.org/entity/Q622416,motorboat,http://wordnet-rdf.princeton.edu/wn30/04273569-n
+http://www.wikidata.org/entity/Q630415,trimaran,http://wordnet-rdf.princeton.edu/wn30/04483307-n
+http://www.wikidata.org/entity/Q4869069,bathroom cabinet,http://wordnet-rdf.princeton.edu/wn30/03742115-n
+http://www.wikidata.org/entity/Q744112,nest box,http://wordnet-rdf.princeton.edu/wn30/02843684-n
+http://www.wikidata.org/entity/Q754396,gas mask,http://wordnet-rdf.princeton.edu/wn30/03424325-n
+http://www.wikidata.org/entity/Q798886,swim cap,http://wordnet-rdf.princeton.edu/wn30/02807133-n
+http://www.wikidata.org/entity/Q5328202,Myliobatoidei,http://wordnet-rdf.princeton.edu/wn30/01498041-n
+http://www.wikidata.org/entity/Q838747,Dowitcher,http://wordnet-rdf.princeton.edu/wn30/02033041-n
+http://www.wikidata.org/entity/Q856584,library building,http://wordnet-rdf.princeton.edu/wn30/03661043-n
+http://www.wikidata.org/entity/Q854830,bridegroom,http://wordnet-rdf.princeton.edu/wn30/10148035-n
+http://www.wikidata.org/entity/Q907099,measuring cup,http://wordnet-rdf.princeton.edu/wn30/03733805-n
+http://www.wikidata.org/entity/Q6566344,drum stick,http://wordnet-rdf.princeton.edu/wn30/03250847-n
+http://www.wikidata.org/entity/Q3500725,billiard table,http://wordnet-rdf.princeton.edu/wn30/03982430-n
+http://www.wikidata.org/entity/Q7500021,shoe store,http://wordnet-rdf.princeton.edu/wn30/04200800-n
+http://www.wikidata.org/entity/Q25397898,fur coat,http://wordnet-rdf.princeton.edu/wn30/03404251-n
+http://www.wikidata.org/entity/Q33612712,running shoes,http://wordnet-rdf.princeton.edu/wn30/04120489-n
+http://www.wikidata.org/entity/Q47486870,salt shaker,http://wordnet-rdf.princeton.edu/wn30/04131690-n
+http://www.wikidata.org/entity/Q47514915,car mirror,http://wordnet-rdf.princeton.edu/wn30/02965783-n
+http://www.wikidata.org/entity/Q27066,European badger,http://wordnet-rdf.princeton.edu/wn30/02447366-n
+http://www.wikidata.org/entity/Q36794,door,http://wordnet-rdf.princeton.edu/wn30/03221720-n
+http://www.wikidata.org/entity/Q35197,mirror,http://wordnet-rdf.princeton.edu/wn30/03773035-n
+http://www.wikidata.org/entity/Q32815,mosque,http://wordnet-rdf.princeton.edu/wn30/03788195-n
+http://www.wikidata.org/entity/Q503,banana,http://wordnet-rdf.princeton.edu/wn30/07753592-n
+http://www.wikidata.org/entity/Q2811,submarine,http://wordnet-rdf.princeton.edu/wn30/04347754-n
+http://www.wikidata.org/entity/Q5639,trolleybus,http://wordnet-rdf.princeton.edu/wn30/04487081-n
+http://www.wikidata.org/entity/Q8355,violin,http://wordnet-rdf.princeton.edu/wn30/04536866-n
+http://www.wikidata.org/entity/Q20459,lighter,http://wordnet-rdf.princeton.edu/wn30/03666591-n
+http://www.wikidata.org/entity/Q37668,Homarus americanus,http://wordnet-rdf.princeton.edu/wn30/01983481-n
+http://www.wikidata.org/entity/Q47369,harp,http://wordnet-rdf.princeton.edu/wn30/03495258-n
+http://www.wikidata.org/entity/Q47722,broccoli,http://wordnet-rdf.princeton.edu/wn30/07714990-n
+http://www.wikidata.org/entity/Q82650,taxi,http://wordnet-rdf.princeton.edu/wn30/02930766-n
+http://www.wikidata.org/entity/Q147256,Actiniaria,http://wordnet-rdf.princeton.edu/wn30/01914609-n
+http://www.wikidata.org/entity/Q147366,gas pump,http://wordnet-rdf.princeton.edu/wn30/03425413-n
+http://www.wikidata.org/entity/Q131704,sandal,http://wordnet-rdf.princeton.edu/wn30/04133789-n
+http://www.wikidata.org/entity/Q131740,wallet,http://wordnet-rdf.princeton.edu/wn30/04548362-n
+http://www.wikidata.org/entity/Q170124,envelope,http://wordnet-rdf.princeton.edu/wn30/03291819-n
+http://www.wikidata.org/entity/Q174320,oscilloscope,http://wordnet-rdf.princeton.edu/wn30/03857828-n
+http://www.wikidata.org/entity/Q184356,radio telescope,http://wordnet-rdf.princeton.edu/wn30/04044716-n
+http://www.wikidata.org/entity/Q210932,airliner,http://wordnet-rdf.princeton.edu/wn30/02690373-n
+http://www.wikidata.org/entity/Q192401,fountain pen,http://wordnet-rdf.princeton.edu/wn30/03388183-n
+http://www.wikidata.org/entity/Q200403,seat belt,http://wordnet-rdf.princeton.edu/wn30/04162706-n
+http://www.wikidata.org/entity/Q207968,guacamole,http://wordnet-rdf.princeton.edu/wn30/07583066-n
+http://www.wikidata.org/entity/Q213889,Symphalangus syndactylus,http://wordnet-rdf.princeton.edu/wn30/02483708-n
+http://www.wikidata.org/entity/Q216530,waste container,http://wordnet-rdf.princeton.edu/wn30/02747177-n
+http://www.wikidata.org/entity/Q218802,pan flute,http://wordnet-rdf.princeton.edu/wn30/03884397-n
+http://www.wikidata.org/entity/Q305718,abaya,http://wordnet-rdf.princeton.edu/wn30/02667093-n
+http://www.wikidata.org/entity/Q374302,Carpodacus mexicanus,http://wordnet-rdf.princeton.edu/wn30/01532829-n
+http://www.wikidata.org/entity/Q390823,burrito,http://wordnet-rdf.princeton.edu/wn30/07880968-n
+http://www.wikidata.org/entity/Q471898,safe,http://wordnet-rdf.princeton.edu/wn30/04125021-n
+http://www.wikidata.org/entity/Q508918,hockey puck,http://wordnet-rdf.princeton.edu/wn30/04019541-n
+http://www.wikidata.org/entity/Q613972,tray,http://wordnet-rdf.princeton.edu/wn30/04476259-n
+http://www.wikidata.org/entity/Q1165686,Grifola frondosa,http://wordnet-rdf.princeton.edu/wn30/13052670-n
+http://www.wikidata.org/entity/Q1225105,digital clock,http://wordnet-rdf.princeton.edu/wn30/03196217-n
+http://www.wikidata.org/entity/Q1190275,fireboat,http://wordnet-rdf.princeton.edu/wn30/03344393-n
+http://www.wikidata.org/entity/Q1190777,bullock cart,http://wordnet-rdf.princeton.edu/wn30/03868242-n
+http://www.wikidata.org/entity/Q1267584,shower cap,http://wordnet-rdf.princeton.edu/wn30/04209133-n
+http://www.wikidata.org/entity/Q1874394,paddle wheel,http://wordnet-rdf.princeton.edu/wn30/03874293-n
+http://www.wikidata.org/entity/Q658353,mousetrap,http://wordnet-rdf.princeton.edu/wn30/03794056-n
+http://www.wikidata.org/entity/Q755174,disc brake,http://wordnet-rdf.princeton.edu/wn30/03208938-n
+http://www.wikidata.org/entity/Q2631281,Cypripedium parviflorum,http://wordnet-rdf.princeton.edu/wn30/12057211-n
+http://www.wikidata.org/entity/Q2940133,Carphophis amoenus,http://wordnet-rdf.princeton.edu/wn30/01728572-n
+http://www.wikidata.org/entity/Q872853,Nautilus pompilius,http://wordnet-rdf.princeton.edu/wn30/01968897-n
+http://www.wikidata.org/entity/Q3382191,upright piano,http://wordnet-rdf.princeton.edu/wn30/04515003-n
+http://www.wikidata.org/entity/Q953960,parking meter,http://wordnet-rdf.princeton.edu/wn30/03891332-n
+http://www.wikidata.org/entity/Q1049642,Indigo Bunting,http://wordnet-rdf.princeton.edu/wn30/01537544-n
+http://www.wikidata.org/entity/Q3578987,fire screen,http://wordnet-rdf.princeton.edu/wn30/03347037-n
+http://www.wikidata.org/entity/Q3807565,meatloaf,http://wordnet-rdf.princeton.edu/wn30/07871810-n
+http://www.wikidata.org/entity/Q12252328,association football ball,http://wordnet-rdf.princeton.edu/wn30/04254680-n
+http://www.wikidata.org/entity/Q17504942,scuba diver,http://wordnet-rdf.princeton.edu/wn30/10565667-n
+http://www.wikidata.org/entity/Q4883086,bell-cot,http://wordnet-rdf.princeton.edu/wn30/02825657-n
+http://www.wikidata.org/entity/Q13389713,snorkel,http://wordnet-rdf.princeton.edu/wn30/04251144-n
+http://www.wikidata.org/entity/Q6817227,water bottle,http://wordnet-rdf.princeton.edu/wn30/04557648-n
+http://www.wikidata.org/entity/Q38132106,soup bowl,http://wordnet-rdf.princeton.edu/wn30/04263257-n
+http://www.wikidata.org/entity/Q47493881,water jug,http://wordnet-rdf.princeton.edu/wn30/04560804-n
+http://www.wikidata.org/entity/Q33609,polar bear,http://wordnet-rdf.princeton.edu/wn30/02134084-n/
