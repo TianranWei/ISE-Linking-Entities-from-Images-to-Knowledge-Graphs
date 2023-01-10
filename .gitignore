@@ -89,3 +89,4 @@ target/
 
 # wiki
 ./notebooks/word_embeddings
+notebooks/word_embeddings/wiki.enc.vectors
