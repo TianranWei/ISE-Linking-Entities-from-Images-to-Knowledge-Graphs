@@ -17,6 +17,7 @@ model_meth()
 
 model = None 
 zero_vec = np.zeros(300, dtype=int)
+"""
 def get_mean_vector(word2vec_model, words):
     # remove out-of-vocabulary words
     #words = [word for word in words if word in word2vec_model.key_to_index]
@@ -52,3 +53,4 @@ def get_mean_vector(word2vec_model, words):
         return np.mean(process_words, axis=0)
     else:
         return []
+"""
