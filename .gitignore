@@ -91,3 +91,4 @@ target/
 ./notebooks/word_embeddings
 notebooks/word_embeddings/wiki.enc.vectors
 notebooks/word_embeddings/GoogleNews-vectors-negative300.bin
+/notebooks/enwiki_20180420_win10_300d.pkl
