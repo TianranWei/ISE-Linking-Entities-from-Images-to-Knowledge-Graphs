@@ -1,0 +1,698 @@
+,imageNet_class,y_validation
+0,"tench, Tinca tinca",['fish']
+1,"goldfish, Carassius auratus","['insect', 'fish']"
+2,"great white shark, white shark, man-eater, man-eating shark, Carcharodon caharias',","['insect', 'fish', 'disease']"
+3,"tiger shark, Galeocerdo cuvieri","['insect', 'fish']"
+5,"electric ray, crampfish, numbfish, torpedo","['band', 'band', 'insect', 'militaryunit', 'weapon']"
+9,"ostrich, Struthio camelus",['eukaryote']
+10,"brambling, Fringilla montifringilla",['bird']
+11,"goldfinch, Carduelis carduelis",['bird']
+12,"house finch, linnet, Carpodacus mexicanus",['bird']
+13,"junco, snowbird",['organisation']
+14,"indigo bunting, indigo finch, indigo bird, Passerina cyanea",['bird']
+15,"robin, American robin, Turdus migratorius",['bird']
+16,bulbul,['insect']
+18,magpie,['bird']
+19,chickadee,"['band', 'insect']"
+20,"water ouzel, dipper",['insect']
+22,"bald eagle, American eagle, Haliaeetus leucocephalus",['bird']
+23,vulture,"['recordlabel', 'animal', 'eukaryote', 'species', 'bird']"
+25,"European fire salamander, Salamandra salamandra","['insect', 'eukaryote']"
+26,"common newt, Triturus vulgaris",['amphibian']
+28,"spotted salamander, Ambystoma maculatum",['amphibian']
+29,"axolotl, mud puppy, Ambystoma mexicanum","['amphibian', 'insect', 'amphibian']"
+30,"bullfrog, Rana catesbeiana","['insect', 'amphibian']"
+32,"tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui","['eukaryote', 'eukaryote', 'insect', 'amphibian']"
+33,"loggerhead, loggerhead turtle, Caretta caretta",['reptile']
+34,"leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea",['reptile']
+35,mud turtle,"['insect', 'reptile']"
+36,terrapin,['eukaryote']
+37,"box turtle, box tortoise",['reptile']
+39,"common iguana, iguana, Iguana iguana","['reptile', 'insect', 'reptile']"
+40,"American chameleon, anole, Anolis carolinensis",['insect']
+41,"whiptail, whiptail lizard",['eukaryote']
+42,agama,['reptile']
+45,"Gila monster, Heloderma suspectum",['reptile']
+46,"green lizard, Lacerta viridis",['reptile']
+47,"African chameleon, Chamaeleo chamaeleon",['reptile']
+48,"Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoeis',",['eukaryote']
+49,"African crocodile, Nile crocodile, Crocodylus niloticus",['reptile']
+50,"American alligator, Alligator mississipiensis",['reptile']
+51,triceratops,['reptile']
+52,"thunder snake, worm snake, Carphophis amoenus","['insect', 'reptile']"
+53,"ringneck snake, ring-necked snake, ring snake","['eukaryote', 'reptile']"
+55,"green snake, grass snake","['reptile', 'reptile']"
+56,"king snake, kingsnake",['reptile']
+57,"garter snake, grass snake",['reptile']
+60,"night snake, Hypsiglena torquata",['reptile']
+61,"boa constrictor, Constrictor constrictor","['insect', 'reptile']"
+62,"rock python, rock snake, Python sebae",['reptile']
+63,"Indian cobra, Naja naja","['eukaryote', 'insect', 'reptile']"
+66,"horned viper, cerastes, sand viper, horned asp, Cerastes cornutus",['eukaryote']
+67,"diamondback, diamondback rattlesnake, Crotalus adamanteus",['eukaryote']
+68,"sidewinder, horned rattlesnake, Crotalus cerastes","['insect', 'eukaryote']"
+69,trilobite,['band']
+70,"harvestman, daddy longlegs, Phalangium opilio","['animal', 'arachnid', 'eukaryote', 'species']"
+73,"barn spider, Araneus cavaticus",['arachnid']
+77,"wolf spider, hunting spider",['insect']
+79,centipede,"['insect', 'animal']"
+80,black grouse,['bird']
+81,ptarmigan,['bird']
+82,"ruffed grouse, partridge, Bonasa umbellus","['bird', 'animal', 'eukaryote', 'species', 'bird']"
+83,"prairie chicken, prairie grouse, prairie fowl","['insect', 'bird', 'bird', 'bird']"
+84,peacock,['bird']
+86,partridge,"['animal', 'eukaryote', 'species', 'bird']"
+88,macaw,"['settlement', 'country']"
+90,lorikeet,['bird']
+91,coucal,['insect']
+92,bee eater,"['band', 'insect']"
+94,hummingbird,"['album', 'bird']"
+95,jacamar,"['place', 'location', 'bodyofwater', 'naturalplace', 'river', 'stream']"
+98,"red-breasted merganser, Mergus serrator",['bird']
+99,goose,"['personfunction', 'animal']"
+100,"black swan, Cygnus atratus",['bird']
+103,"platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhyhus anatinus',",['mammal']
+104,"wallaby, brush kangaroo",['insect']
+105,"koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus","['place', 'location', 'settlement', 'populatedplace', 'televisionshow', 'work', 'recordlabel', 'mammal']"
+106,wombat,['anatomicalstructure']
+107,jellyfish,['animal']
+108,"sea anemone, anemone","['band', 'insect']"
+110,"flatworm, platyhelminth","['animal', 'species']"
+111,"nematode, nematode worm, roundworm",['animal']
+113,snail,['device']
+114,slug,['star']
+115,"sea slug, nudibranch","['person', 'insect']"
+117,"chambered nautilus, pearly nautilus, nautilus","['eukaryote', 'mollusca']"
+118,"Dungeness crab, Cancer magister",['crustacean']
+119,"rock crab, Cancer irroratus",['crustacean']
+120,fiddler crab,['insect']
+121,"king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodesamtschatica',",['insect']
+122,"American lobster, Northern lobster, Maine lobster, Homarus americanus",['crustacean']
+123,"spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish","['insect', 'single', 'song', 'work', 'musicalwork', 'insect', 'animal', 'crustacean', 'eukaryote', 'species', 'band', 'insect']"
+124,"crayfish, crawfish, crawdad, crawdaddy","['band', 'insect', 'insect', 'animal', 'crustacean', 'eukaryote', 'species', 'magazine', 'writtenwork', 'periodicalliterature', 'work']"
+125,hermit crab,"['insect', 'crustacean']"
+126,isopod,"['insect', 'eukaryote']"
+127,"white stork, Ciconia ciconia",['bird']
+131,"little blue heron, Egretta caerulea",['bird']
+132,"American egret, great white heron, Egretta albus","['insect', 'bird']"
+133,bittern,['meanoftransportation']
+135,"limpkin, Aramus pictus",['bird']
+136,"European gallinule, Porphyrio porphyrio",['bird']
+137,"American coot, marsh hen, mud hen, water hen, Fulica americana","['bird', 'sportsteam']"
+139,"ruddy turnstone, Arenaria interpres",['bird']
+140,"red-backed sandpiper, dunlin, Erolia alpina","['bird', 'place', 'location', 'city', 'settlement', 'populatedplace', 'bird']"
+141,"redshank, Tringa totanus",['bird']
+143,"oystercatcher, oyster catcher","['band', 'insect']"
+144,pelican,"['insect', 'bird']"
+145,"king penguin, Aptenodytes patagonica",['eukaryote']
+146,"albatross, mollymawk","['insect', 'bird', 'band']"
+147,"grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius rostus',","['mammal', 'eukaryote']"
+148,"killer whale, killer, orca, grampus, sea wolf, Orcinus orca","['organisation', 'soccerclub']"
+149,"dugong, Dugong dugon","['insect', 'mammal']"
+150,sea lion,['mammal']
+152,Japanese spaniel,['fictionalcharacter']
+153,"Maltese dog, Maltese terrier, Maltese","['place', 'location', 'musicalartist', 'country', 'populatedplace']"
+154,"Pekinese, Pekingese, Peke",['mammal']
+156,Blenheim spaniel,['mammal']
+158,toy terrier,['mammal']
+159,Rhodesian ridgeback,['mammal']
+161,"basset, basset hound",['mammal']
+162,beagle,['recordlabel']
+163,"bloodhound, sleuthhound","['mythologicalfigure', 'mammal']"
+165,black-and-tan coonhound,['mammal']
+166,"Walker hound, Walker foxhound",['mammal']
+169,"borzoi, Russian wolfhound",['mammal']
+170,Irish wolfhound,['mammal']
+171,Italian greyhound,['mammal']
+172,whippet,['mammal']
+173,"Ibizan hound, Ibizan Podenco",['fictionalcharacter']
+174,"Norwegian elkhound, elkhound",['mammal']
+175,"otterhound, otter hound",['mammal']
+176,"Saluki, gazelle hound",['fictionalcharacter']
+177,"Scottish deerhound, deerhound",['mammal']
+178,Weimaraner,['fictionalcharacter']
+179,"Staffordshire bullterrier, Staffordshire bull terrier",['mammal']
+180,"American Staffordshire terrier, Staffordshire terrier, American pit bull rrier, pit bull terrier',","['mammal', 'mammal', 'mammal']"
+181,Bedlington terrier,['mammal']
+182,Border terrier,['mammal']
+183,Kerry blue terrier,['mammal']
+185,Norfolk terrier,['mammal']
+186,Norwich terrier,['mammal']
+187,Yorkshire terrier,['mammal']
+188,wire-haired fox terrier,['mammal']
+189,Lakeland terrier,['mammal']
+190,"Sealyham terrier, Sealyham",['mammal']
+191,"Airedale, Airedale terrier",['mammal']
+192,"cairn, cairn terrier","['place', 'location', 'city', 'settlement', 'populatedplace']"
+193,Australian terrier,['mammal']
+194,"Dandie Dinmont, Dandie Dinmont terrier",['mammal']
+195,"Boston bull, Boston terrier",['mammal']
+196,miniature schnauzer,['mammal']
+197,giant schnauzer,['mammal']
+198,standard schnauzer,['mammal']
+199,"Scotch terrier, Scottish terrier, Scottie",['mammal']
+200,"Tibetan terrier, chrysanthemum dog","['mammal', 'mammal']"
+201,"silky terrier, Sydney silky",['mammal']
+202,soft-coated wheaten terrier,['fictionalcharacter']
+203,West Highland white terrier,['mammal']
+204,"Lhasa, Lhasa apso","['band', 'mammal', 'mammal']"
+208,Labrador retriever,['fictionalcharacter']
+209,Chesapeake Bay retriever,['mammal']
+211,"vizsla, Hungarian pointer","['company', 'organisation', 'university', 'mammal']"
+213,"Irish setter, red setter",['person']
+214,Gordon setter,['mammal']
+216,"clumber, clumber spaniel",['mammal']
+217,"English springer, English springer spaniel",['mammal']
+218,Welsh springer spaniel,['mammal']
+219,"cocker spaniel, English cocker spaniel, cocker","['insect', 'mammal', 'person', 'artist', 'band', 'musicalartist']"
+220,Sussex spaniel,['mammal']
+221,Irish water spaniel,['mammal']
+223,schipperke,['mammal']
+227,kelpie,['eukaryote']
+228,komondor,['mammal']
+229,"Old English sheepdog, bobtail","['mammal', 'mammal']"
+230,"Shetland sheepdog, Shetland sheep dog, Shetland","['mammal', 'musicalartist', 'country']"
+233,"Bouvier des Flandres, Bouviers des Flandres",['mammal']
+234,Rottweiler,['mammal']
+235,"German shepherd, German shepherd dog, German police dog, alsatian","['mammal', 'fictionalcharacter']"
+237,miniature pinscher,['mammal']
+238,Greater Swiss Mountain dog,['mammal']
+240,Appenzeller,"['place', 'location', 'settlement', 'country', 'populatedplace']"
+241,EntleBucher,['fictionalcharacter']
+243,bull mastiff,['mammal']
+244,Tibetan mastiff,['mammal']
+247,"Saint Bernard, St Bernard",['mammal']
+248,"Eskimo dog, husky",['mammal']
+249,"malamute, malemute, Alaskan malamute","['person', 'politician', 'mammal']"
+250,Siberian husky,['organisation']
+251,"dalmatian, coach dog, carriage dog",['mammal']
+253,basenji,['mammal']
+255,Leonberg,"['place', 'location', 'settlement', 'town', 'populatedplace']"
+256,"Newfoundland, Newfoundland dog",['country']
+260,"chow, chow chow",['mammal']
+261,keeshond,['fictionalcharacter']
+262,Brabancon griffon,['mammal']
+263,"Pembroke, Pembroke Welsh corgi",['historicplace']
+265,toy poodle,['band']
+266,miniature poodle,['band']
+267,standard poodle,['band']
+269,"timber wolf, grey wolf, gray wolf, Canis lupus",['musicalartist']
+270,"white wolf, Arctic wolf, Canis lupus tundrarum",['animal']
+271,"red wolf, maned wolf, Canis rufus, Canis niger",['mammal']
+272,"coyote, prairie wolf, brush wolf, Canis latrans","['company', 'mammal']"
+273,"dingo, warrigal, warragal, Canis dingo","['insect', 'fictionalcharacter', 'place', 'location', 'administrativeregion', 'city', 'settlement', 'region', 'populatedplace']"
+274,"dhole, Cuon alpinus","['musicalartist', 'insect', 'mammal']"
+275,"African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus","['mammal', 'animal']"
+276,"hyena, hyaena",['animal']
+277,"red fox, Vulpes vulpes",['insect']
+278,"kit fox, Vulpes macrotis",['eukaryote']
+279,"Arctic fox, white fox, Alopex lagopus",['mammal']
+280,"grey fox, gray fox, Urocyon cinereoargenteus",['mammal']
+282,tiger cat,['mammal']
+283,Persian cat,['mammal']
+286,"cougar, puma, catamount, mountain lion, painter, panther, Felis concolor","['mammal', 'device', 'place', 'location', 'settlement', 'populatedplace']"
+287,"lynx, catamount","['software', 'work', 'mammal']"
+289,"snow leopard, ounce, Panthera uncia","['mammal', 'bird', 'company', 'mammal']"
+290,"jaguar, panther, Panthera onca, Felis onca","['company', 'mammal', 'place', 'location', 'settlement', 'populatedplace']"
+292,"tiger, Panthera tigris",['eukaryote']
+293,"cheetah, chetah, Acinonyx jubatus",['mammal']
+294,"brown bear, bruin, Ursus arctos","['insect', 'mammal']"
+295,"American black bear, black bear, Ursus americanus, Euarctos americanus","['insect', 'mammal']"
+296,"ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",['mammal']
+297,"sloth bear, Melursus ursinus, Ursus ursinus","['insect', 'eukaryote']"
+299,"meerkat, mierkat","['insect', 'mammal']"
+300,tiger beetle,"['band', 'insect']"
+301,"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",['insect']
+302,"ground beetle, carabid beetle",['insect']
+304,"leaf beetle, chrysomelid",['insect']
+305,dung beetle,['insect']
+306,rhinoceros beetle,['insect']
+307,weevil,['insect']
+311,"grasshopper, hopper",['insect']
+312,cricket,['activity']
+313,"walking stick, walkingstick, stick insect","['device', 'person', 'artist', 'eukaryote']"
+314,"cockroach, roach","['insect', 'company', 'organisation']"
+315,"mantis, mantid","['place', 'location', 'city', 'settlement', 'populatedplace']"
+316,"cicada, cicala","['insect', 'plant']"
+317,leafhopper,['insect']
+319,"dragonfly, darning needle, devil's darning needle, sewing needle, snake fder, snake doctor, mosquito hawk, skeeter hawk"",","['insect', 'topicalconcept', 'software', 'televisionshow', 'work', 'film', 'work']"
+320,damselfly,['insect']
+321,admiral,"['militaryperson', 'plant']"
+322,"ringlet, ringlet butterfly","['currency', 'insect']"
+323,"monarch, monarch butterfly, milkweed butterfly, Danaus plexippus","['person', 'personfunction', 'insect']"
+325,"sulphur butterfly, sulfur butterfly",['insect']
+326,"lycaenid, lycaenid butterfly",['insect']
+327,"starfish, sea star",['animal']
+329,"sea cucumber, holothurian","['insect', 'animal', 'insect', 'animal']"
+330,"wood rabbit, cottontail, cottontail rabbit","['insect', 'mammal', 'insect']"
+332,"Angora, Angora rabbit","['place', 'location', 'musicalartist', 'country', 'populatedplace', 'grape']"
+334,"porcupine, hedgehog",['mammal']
+335,"fox squirrel, eastern fox squirrel, Sciurus niger",['eukaryote']
+337,beaver,['mammal']
+338,"guinea pig, Cavia cobaya","['personfunction', 'mammal']"
+341,"hog, pig, grunter, squealer, Sus scrofa","['ethnicgroup', 'mammal']"
+342,"wild boar, boar, Sus scrofa","['mammal', 'ethnicgroup', 'mammal']"
+346,"water buffalo, water ox, Asiatic buffalo, Bubalus bubalis","['mammal', 'plant']"
+349,"bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain eep, Ovis canadensis',","['mammal', 'bird', 'mammal']"
+350,"ibex, Capra ibex","['band', 'insect', 'mammal']"
+351,hartebeest,['mammal']
+352,"impala, Aepyceros melampus","['company', 'mammal']"
+353,gazelle,['academicjournal']
+354,"Arabian camel, dromedary, Camelus dromedarius",['mammal']
+356,weasel,"['insect', 'mammal']"
+357,mink,"['person', 'personfunction']"
+358,"polecat, fitch, foulmart, foumart, Mustela putorius",['mammal']
+359,"black-footed ferret, ferret, Mustela nigripes","['insect', 'mammal']"
+360,otter,['place']
+361,"skunk, polecat, wood pussy","['insect', 'mammal']"
+363,armadillo,"['place', 'location', 'city', 'settlement', 'populatedplace']"
+364,"three-toed sloth, ai, Bradypus tridactylus","['mammal', 'mammal']"
+365,"orangutan, orang, orangutang, Pongo pygmaeus",['mammal']
+367,"chimpanzee, chimp, Pan troglodytes",['insect']
+368,"gibbon, Hylobates lar","['band', 'insect', 'mammal']"
+369,"siamang, Hylobates syndactylus, Symphalangus syndactylus",['mammal']
+370,"guenon, guenon monkey",['mammal']
+371,"patas, hussar monkey, Erythrocebus patas","['food', 'grape']"
+373,macaque,"['settlement', 'country']"
+376,"proboscis monkey, Nasalis larvatus",['mammal']
+377,marmoset,"['insect', 'mammal']"
+378,"capuchin, ringtail, Cebus capucinus",['organisation']
+379,"howler monkey, howler",['company']
+381,"spider monkey, Ateles geoffroyi",['mammal']
+382,"squirrel monkey, Saimiri sciureus","['insect', 'mammal']"
+383,"Madagascar cat, ring-tailed lemur, Lemur catta","['place', 'location', 'musicalartist', 'country', 'populatedplace', 'mammal']"
+384,"indri, indris, Indri indri, Indri brevicaudatus",['mammal']
+385,"Indian elephant, Elephas maximus",['animal']
+387,"lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens","['mammal', 'bird', 'name', 'givenname', 'insect', 'mammal']"
+388,"giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca","['mammal', 'name', 'givenname']"
+389,"barracouta, snoek",['fish']
+391,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch","['book', 'recordlabel', 'place', 'location', 'settlement', 'populatedplace', 'song', 'work', 'musicalwork']"
+392,"rock beauty, Holocanthus tricolor",['fish']
+394,sturgeon,"['person', 'personfunction']"
+395,"gar, garfish, garpike, billfish, Lepisosteus osseus","['fish', 'fish']"
+396,lionfish,"['insect', 'fish']"
+397,"puffer, pufferfish, blowfish, globefish",['insect']
+398,abacus,['software']
+400,"academic gown, academic robe, judge's robe","['personfunction', 'televisionshow']"
+401,"accordion, piano accordion, squeeze box","['personfunction', 'musicalartist', 'personfunction', 'single', 'song', 'work', 'musicalwork']"
+402,acoustic guitar,"['agent', 'musicgenre']"
+403,"aircraft carrier, carrier, flattop, attack aircraft carrier",['ship']
+404,airliner,"['company', 'personfunction']"
+407,ambulance,"['personfunction', 'meanoftransportation']"
+408,"amphibian, amphibious vehicle",['meanoftransportation']
+409,analog clock,['agent']
+410,"apiary, bee house",['historicplace']
+411,apron,['fashion']
+412,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustb, trash barrel, trash bin',",['company']
+413,"assault rifle, assault gun",['weapon']
+414,"backpack, back pack, knapsack, packsack, rucksack, haversack",['disease']
+415,"bakery, bakeshop, bakehouse","['personfunction', 'company', 'organisation', 'organisation', 'musicgenre']"
+417,balloon,"['device', 'formulaoneteam']"
+418,"ballpoint, ballpoint pen, ballpen, Biro",['animal']
+420,banjo,"['personfunction', 'university']"
+421,"bannister, banister, balustrade, balusters, handrail","['person', 'station']"
+423,barber chair,['person']
+426,barometer,['agent']
+427,"barrel, cask",['company']
+428,"barrow, garden cart, lawn cart, wheelbarrow","['insect', 'place', 'meanoftransportation']"
+429,baseball,['activity']
+430,basketball,['activity']
+431,bassinet,['hospital']
+432,bassoon,"['musicalartist', 'agent']"
+434,bath towel,['musicalwork']
+435,"bathtub, bathing tub, bath, tub","['company', 'mammal']"
+436,"beach wagon, station wagon, wagon, estate car, beach waggon, station wagg, waggon',","['meanoftransportation', 'organisation', 'radiostation', 'station']"
+437,"beacon, lighthouse, beacon light, pharos","['building', 'royalty']"
+438,beaker,['building']
+439,"bearskin, busby, shako","['glacier', 'colour']"
+440,beer bottle,['company']
+442,"bell cote, bell cot",['software']
+444,"bicycle-built-for-two, tandem bicycle, tandem","['single', 'song', 'work', 'musicalwork', 'musicalwork']"
+445,"bikini, two-piece","['sport', 'personfunction']"
+447,"binoculars, field glasses, opera glasses","['place', 'device']"
+448,birdhouse,['historicplace']
+449,boathouse,['building']
+450,"bobsled, bobsleigh, bob","['amusementparkattraction', 'activity']"
+451,"bolo tie, bolo, bola tie, bola","['person', 'musicalartist']"
+453,bookcase,['musicalwork']
+454,"bookshop, bookstore, bookstall","['company', 'personfunction']"
+459,"brassiere, bra, bandeau",['fashion']
+460,"breakwater, groin, groyne, mole, bulwark, seawall, jetty",['place']
+463,"bucket, pail",['organisation']
+465,bulletproof vest,['food']
+467,"butcher shop, meat market","['person', 'personfunction', 'food']"
+468,"cab, hack, taxi, taxicab","['insect', 'animal', 'eukaryote', 'species', 'bird', 'person', 'musicgenre']"
+469,"caldron, cauldron",['beverage']
+470,"candle, taper, wax light","['food', 'person']"
+473,"can opener, tin opener",['device']
+476,"carousel, carrousel, merry-go-round, roundabout, whirligig","['amusementparkattraction', 'recordlabel', 'roadjunction']"
+478,carton,['musicgenre']
+479,car wheel,['automobile']
+482,cassette player,['software']
+484,catamaran,['ship']
+485,CD player,['device']
+486,"cello, violoncello","['personfunction', 'agent']"
+487,"cellular telephone, cellular phone, cellphone, cell, mobile phone","['company', 'building']"
+488,chain,['musicalwork']
+489,chainlink fence,['person']
+493,"chiffonier, commode","['person', 'royalty']"
+494,"chime, bell, gong",['agent']
+497,"church, church building",['building']
+498,"cinema, movie theater, movie theatre, movie house, picture palace","['building', 'musicgenre']"
+499,"cleaver, meat cleaver, chopper",['weapon']
+500,cliff dwelling,['place']
+501,cloak,['agent']
+503,cocktail shaker,['device']
+504,coffee mug,['sportsevent']
+506,"coil, spiral, volute, whorl, helix","['chemicalcompound', 'personfunction', 'galaxy']"
+507,combination lock,['device']
+508,"computer keyboard, keypad",['device']
+509,"confectionery, confectionary, candy store","['person', 'personfunction']"
+510,"container ship, containership, container vessel","['ship', 'meanoftransportation']"
+512,"corkscrew, bottle screw","['software', 'device']"
+513,"cornet, horn, trumpet, trump","['insect', 'musicalartist', 'agent']"
+515,"cowboy hat, ten-gallon hat",['fashion']
+520,"crib, cot","['anatomicalstructure', 'bone']"
+522,croquet ball,['activity']
+523,crutch,['device']
+524,cuirass,['musicalwork']
+525,"dam, dike, dyke",['personfunction']
+527,desktop computer,['informationappliance']
+528,"dial telephone, dial phone",['militaryunit']
+530,digital clock,['historicplace']
+531,digital watch,['personfunction']
+534,"dishwasher, dish washer, dishwashing machine",['device']
+535,"disk brake, disc brake",['actor']
+536,"dock, dockage, docking facility","['protein', 'company']"
+537,"dogsled, dog sled, dog sleigh",['personfunction']
+540,"drilling platform, offshore rig","['building', 'personfunction']"
+542,drumstick,['weapon']
+543,dumbbell,['musicalwork']
+544,Dutch oven,['beverage']
+545,"electric fan, blower",['building']
+546,electric guitar,"['musicalartist', 'agent']"
+547,electric locomotive,['locomotive']
+549,envelope,['food']
+550,espresso maker,['person']
+551,face powder,['chemicalcompound']
+553,"file, file cabinet, filing cabinet","['personfunction', 'televisionshow', 'musicalwork']"
+554,fireboat,['ship']
+555,"fire engine, fire truck",['meanoftransportation']
+558,"flute, transverse flute","['personfunction', 'person']"
+559,folding chair,['person']
+560,football helmet,['musicalwork']
+561,forklift,['automobile']
+562,fountain,['musicalwork']
+563,fountain pen,['animal']
+564,four-poster,['hospital']
+565,freight car,"['train', 'meanoftransportation']"
+566,"French horn, horn","['musicalartist', 'agent']"
+567,"frying pan, frypan, skillet",['band']
+568,fur coat,['company']
+570,"gasmask, respirator, gas helmet","['weapon', 'anatomicalstructure']"
+572,goblet,"['software', 'band']"
+573,go-kart,['meanoftransportation']
+574,golf ball,['food']
+575,"golfcart, golf cart",['meanoftransportation']
+576,gondola,['ship']
+577,"gong, tam-tam","['song', 'work', 'musicalwork']"
+578,gown,['personfunction']
+579,"grand piano, grand","['personfunction', 'agent']"
+580,"greenhouse, nursery, glasshouse","['building', 'musicgenre']"
+582,"grocery store, grocery, food market, market","['company', 'personfunction', 'company', 'organisation']"
+583,guillotine,['disease']
+585,hair spray,['software']
+586,half track,['meanoftransportation']
+587,hammer,['software']
+588,hamper,['software']
+589,"hand blower, blow dryer, blow drier, hair dryer, hair drier","['person', 'personfunction', 'device', 'company']"
+590,"hand-held computer, hand-held microcomputer","['device', 'musicgenre', 'device', 'informationappliance', 'televisionshow']"
+591,"handkerchief, hankie, hanky, hankey",['person']
+592,"hard disc, hard disk, fixed disk","['device', 'musicgenre']"
+593,"harmonica, mouth organ, harp, mouth harp","['personfunction', 'agent', 'personfunction', 'agent']"
+594,harp,"['personfunction', 'agent']"
+596,hatchet,['software']
+597,holster,"['person', 'musicalartist']"
+598,"home theater, home theatre",['musicgenre']
+599,honeycomb,['place']
+600,"hook, claw","['band', 'recordlabel']"
+601,"hoopskirt, crinoline",['recordlabel']
+603,"horse cart, horse-cart",['musicalwork']
+604,hourglass,['device']
+605,iPod,['informationappliance']
+606,"iron, smoothing iron","['place', 'location', 'country', 'populatedplace', 'informationappliance']"
+609,"jeep, landrover","['building', 'company', 'organisation']"
+610,"jersey, T-shirt, tee shirt","['country', 'fashion']"
+611,jigsaw puzzle,['videogame']
+613,joystick,['device']
+614,kimono,"['person', 'militaryperson']"
+615,knee pad,['aircraft']
+617,"lab coat, laboratory coat",['scientist']
+619,"lampshade, lamp shade",['agent']
+620,"laptop, laptop computer",['informationappliance']
+621,"lawn mower, mower","['software', 'person']"
+623,"letter opener, paper knife, paperknife",['planet']
+624,library,"['book', 'musicgenre']"
+626,"lighter, light, igniter, ignitor","['recordlabel', 'species', 'device']"
+627,"limousine, limo",['automobile']
+629,"lipstick, lip rouge",['software']
+632,"loudspeaker, speaker, speaker unit, loudspeaker system, speaker system",['device']
+633,"loupe, jeweler's loupe",['device']
+634,"lumbermill, sawmill","['personfunction', 'architecturalstructure']"
+635,magnetic compass,"['recordlabel', 'agent']"
+636,"mailbag, postbag","['televisionshow', 'work', 'musicgenre']"
+642,"marimba, xylophone","['agent', 'musicgenre', 'agent']"
+646,"maze, labyrinth","['place', 'musicgenre', 'band', 'building']"
+648,"medicine chest, medicine cabinet",['company']
+649,"megalith, megalithic structure",['building']
+650,"microphone, mike",['organisation']
+651,"microwave, microwave oven","['informationappliance', 'personfunction']"
+652,military uniform,['fashion']
+654,minibus,['ship']
+656,minivan,['meanoftransportation']
+660,"mobile home, manufactured home","['building', 'building']"
+663,monastery,['building']
+666,mortar,"['software', 'musicgenre']"
+667,mortarboard,['food']
+668,mosque,['settlement']
+670,"motor scooter, scooter",['motorcycle']
+671,"mountain bike, all-terrain bike, off-roader","['organisation', 'sport']"
+672,mountain tent,"['historicplace', 'recordlabel']"
+673,"mouse, computer mouse","['building', 'musicgenre', 'device']"
+675,moving van,['company']
+678,neck brace,['device']
+679,necklace,"['person', 'artist']"
+680,nipple,"['place', 'location', 'musicalartist', 'country', 'populatedplace']"
+681,"notebook, notebook computer",['informationappliance']
+682,obelisk,['place']
+683,"oboe, hautboy, hautbois",['personfunction']
+684,"ocarina, sweet potato","['album', 'plant']"
+685,"odometer, hodometer, mileometer, milometer","['agent', 'organisation']"
+686,oil filter,['device']
+687,"organ, pipe organ","['personfunction', 'agent']"
+688,"oscilloscope, scope, cathode-ray oscilloscope, CRO",['agent']
+690,oxcart,['meanoftransportation']
+693,"paddle, boat paddle",['software']
+696,paintbrush,['person']
+697,"pajama, pyjama, pj's, jammies",['insect']
+699,"panpipe, pandean pipe, syrinx","['band', 'recordlabel', 'mythologicalfigure']"
+701,"parachute, chute",['device']
+703,park bench,"['film', 'work']"
+704,parking meter,['device']
+705,"passenger car, coach, carriage",['meanoftransportation']
+707,"pay-phone, pay-station",['televisionshow']
+708,"pedestal, plinth, footstall",['organisation']
+709,"pencil box, pencil case","['televisionshow', 'company']"
+710,pencil sharpener,['device']
+711,"perfume, essence",['chemicalsubstance']
+712,Petri dish,['work']
+713,photocopier,['software']
+714,"pick, plectrum, plectron","['software', 'company', 'disease', 'organisation']"
+716,"picket fence, paling",['person']
+717,"pickup, pickup truck",['automobile']
+719,"piggy bank, penny bank","['company', 'bank']"
+721,pillow,['personfunction']
+722,ping-pong ball,['activity']
+724,"pirate, pirate ship","['band', 'militaryconflict']"
+726,"plane, carpenter's plane, woodworking plane",['aircraft']
+727,planetarium,"['person', 'musicgenre']"
+729,plate rack,"['event', 'militaryconflict']"
+730,"plow, plough","['place', 'location', 'settlement', 'populatedplace']"
+731,"plunger, plumber's helper",['software']
+732,"Polaroid camera, Polaroid Land camera",['televisionshow']
+734,"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria","['meanoftransportation', 'meanoftransportation']"
+736,"pool table, billiard table, snooker table",['work']
+737,"pop bottle, soda bottle","['single', 'song', 'work', 'musicalwork', 'company']"
+738,"pot, flowerpot",['company']
+740,power drill,['software']
+741,"prayer rug, prayer mat",['musicalwork']
+742,printer,"['company', 'personfunction']"
+743,"prison, prison house","['personfunction', 'architecturalstructure']"
+746,"puck, hockey puck","['food', 'software']"
+747,"punching bag, punch bag, punching ball, punchball",['sport']
+750,"quilt, comforter, comfort, puff",['species']
+751,"racer, race car, racing car",['activity']
+752,"racket, racquet","['agent', 'broadcaster']"
+754,"radio, wireless","['personfunction', 'university']"
+755,"radio telescope, radio reflector",['building']
+756,rain barrel,['weapon']
+757,"recreational vehicle, RV, R.V.","['personfunction', 'building']"
+759,reflex camera,['televisionshow']
+760,"refrigerator, icebox","['informationappliance', 'food']"
+761,"remote control, remote",['militaryunit']
+762,"restaurant, eating house, eating place, eatery","['company', 'musicgenre']"
+763,"revolver, six-gun, six-shooter","['weapon', 'film', 'work']"
+764,rifle,['weapon']
+765,"rocking chair, rocker","['person', 'personfunction', 'weapon']"
+767,"rubber eraser, rubber, pencil eraser",['person']
+768,rugby ball,['food']
+772,safety pin,['food']
+776,"sax, saxophone","['musicgenre', 'personfunction']"
+777,scabbard,"['country', 'island']"
+778,"scale, weighing machine",['device']
+780,schooner,['ship']
+781,scoreboard,['organisation']
+783,screw,"['organisation', 'sport']"
+784,screwdriver,['software']
+785,"seat belt, seatbelt",['device']
+787,"shield, buckler",['device']
+788,"shoe shop, shoe-shop, shoe store","['election', 'personfunction']"
+792,shovel,['settlement']
+793,shower cap,['fashion']
+794,shower curtain,['settlement']
+795,ski,['album']
+798,"slide rule, slipstick",['musicgenre']
+799,sliding door,['automobile']
+800,"slot, one-armed bandit",['supremecourtoftheunitedstatescase']
+801,snorkel,['company']
+802,snowmobile,['meanoftransportation']
+803,"snowplow, snowplough",['device']
+804,soap dispenser,['device']
+805,soccer ball,['food']
+807,"solar dish, solar collector, solar furnace","['place', 'building']"
+808,sombrero,"['film', 'work']"
+810,space bar,['musicalwork']
+812,space shuttle,"['meanoftransportation', 'rocket']"
+814,speedboat,"['ship', 'musicgenre']"
+815,"spider web, spider's web",['device']
+818,"spotlight, spot",['musicgenre']
+819,stage,['artificialsatellite']
+820,steam locomotive,"['locomotive', 'train']"
+821,steel arch bridge,['bridge']
+822,steel drum,"['agent', 'musicgenre']"
+823,stethoscope,['device']
+829,"streetcar, tram, tramcar, trolley, trolley car","['meanoftransportation', 'work']"
+832,"stupa, tope",['building']
+833,"submarine, pigboat, sub, U-boat","['film', 'ship', 'work', 'musicgenre', 'star', 'ship', 'musicgenre']"
+835,sundial,['device']
+837,"sunglasses, dark glasses, shades","['film', 'work']"
+839,suspension bridge,['bridge']
+842,"swimming trunks, bathing trunks",['company']
+843,swing,['album']
+844,"switch, electric switch, electrical switch","['personfunction', 'militaryunit']"
+845,syringe,"['chemicalcompound', 'drug']"
+846,table lamp,['device']
+847,"tank, army tank, armored combat vehicle, armoured combat vehicle","['militaryunit', 'militaryunit', 'meanoftransportation']"
+849,teapot,['ship']
+851,"television, television system",['personfunction']
+853,"thatch, thatched roof","['ship', 'racehorse']"
+854,"theater curtain, theatre curtain","['building', 'theatre', 'venue', 'architecturalstructure']"
+855,thimble,['organisation']
+856,"thresher, thrasher, threshing machine","['band', 'animal', 'eukaryote', 'species', 'bird', 'person']"
+860,"tobacco shop, tobacconist shop, tobacconist","['company', 'personfunction']"
+861,toilet seat,['organisation']
+863,totem pole,['artwork']
+864,"tow truck, tow car, wrecker",['automobile']
+865,toyshop,['company']
+867,"trailer truck, tractor trailer, trucking rig, rig, articulated lorry, sem,","['drug', 'musicgenre']"
+869,trench coat,['disease']
+870,"tricycle, trike, velocipede","['meanoftransportation', 'musicgenre', 'meanoftransportation']"
+871,trimaran,['ship']
+873,triumphal arch,['building']
+874,"trolleybus, trolley coach, trackless trolley",['automobile']
+875,trombone,"['personfunction', 'agent']"
+878,typewriter keyboard,['software']
+879,umbrella,['artwork']
+880,"unicycle, monocycle","['meanoftransportation', 'musicgenre']"
+881,"upright, upright piano","['personfunction', 'agent']"
+882,"vacuum, vacuum cleaner","['person', 'device']"
+885,velvet,['agent']
+886,vending machine,['software']
+888,viaduct,['bridge']
+889,"violin, fiddle",['populatedplace']
+890,volleyball,['activity']
+892,wall clock,['agent']
+893,"wallet, billfold, notecase, pocketbook","['agent', 'musicgenre', 'supremecourtoftheunitedstatescase', 'software', 'work', 'company', 'publisher', 'organisation']"
+894,"wardrobe, closet, press",['person']
+895,"warplane, military plane","['place', 'musicgenre']"
+896,"washbasin, handbasin, washbowl, lavabo, wash-hand basin","['agent', 'device']"
+897,"washer, automatic washer, washing machine","['chemicalcompound', 'software']"
+898,water bottle,['company']
+901,whiskey jug,['company']
+902,whistle,['colour']
+903,wig,['election']
+905,window shade,['anatomicalstructure']
+906,Windsor tie,['software']
+907,wine bottle,['company']
+908,wing,['work']
+911,"wool, woolen, woollen","['personfunction', 'anatomicalstructure', 'company']"
+912,"worm fence, snake fence, snake-rail fence, Virginia fence","['person', 'building']"
+916,"web site, website, internet site, site",['musicgenre']
+918,"crossword puzzle, crossword",['videogame']
+919,street sign,['radiostation']
+920,"traffic light, traffic signal, stoplight","['device', 'radiostation']"
+921,"book jacket, dust cover, dust jacket, dust wrapper",['single']
+924,guacamole,['food']
+926,"hot pot, hotpot",['food']
+928,"ice cream, icecream",['food']
+929,"ice lolly, lolly, lollipop, popsicle",['company']
+931,"bagel, beigel","['place', 'location', 'settlement', 'country', 'populatedplace']"
+932,pretzel,"['software', 'food']"
+933,cheeseburger,['food']
+934,"hotdog, hot dog, red hot","['food', 'band', 'organisation']"
+935,mashed potato,['food']
+936,head cabbage,"['cultivatedvariety', 'food', 'plant', 'eukaryote', 'species']"
+937,broccoli,"['cultivatedvariety', 'plant', 'eukaryote', 'species']"
+938,cauliflower,"['cultivatedvariety', 'food', 'plant', 'eukaryote', 'species']"
+939,"zucchini, courgette","['cultivatedvariety', 'plant', 'eukaryote', 'species', 'ship']"
+940,spaghetti squash,"['band', 'cultivatedvariety', 'plant', 'eukaryote', 'species']"
+941,acorn squash,"['cultivatedvariety', 'plant', 'eukaryote', 'species']"
+942,butternut squash,"['cultivatedvariety', 'plant', 'eukaryote', 'species']"
+943,"cucumber, cuke",['plant']
+944,"artichoke, globe artichoke","['plant', 'grape']"
+946,cardoon,['musicgenre']
+949,strawberry,['insect']
+953,"pineapple, ananas",['plant']
+954,banana,"['place', 'location', 'musicalartist', 'country', 'populatedplace']"
+955,"jackfruit, jak, jack","['insect', 'plant', 'mammal', 'anatomicalstructure']"
+957,pomegranate,"['insect', 'plant']"
+958,hay,['musicgenre']
+959,carbonara,['food']
+960,"chocolate sauce, chocolate syrup",['food']
+962,"meat loaf, meatloaf",['food']
+963,"pizza, pizza pie",['food']
+965,burrito,['food']
+967,espresso,"['magazine', 'writtenwork', 'periodicalliterature', 'work']"
+968,cup,['company']
+970,alp,"['place', 'location', 'mountain', 'naturalplace', 'mountainrange']"
+971,bubble,"['book', 'musicgenre']"
+975,"lakeside, lakeshore","['company', 'organisation']"
+976,"promontory, headland, head, foreland",['place']
+977,"sandbar, sand bar",['place']
+978,"seashore, coast, seacoast, sea-coast","['venue', 'governmentagency', 'settlement', 'place']"
+979,"valley, vale","['place', 'river']"
+980,volcano,"['disease', 'recordlabel']"
+981,"ballplayer, baseball player",['activity']
+982,"groom, bridegroom",['person']
+983,scuba diver,"['personfunction', 'single']"
+984,rapeseed,"['person', 'plant']"
+985,daisy,['organisation']
+986,"yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripium parviflorum"",","['plant', 'person', 'plant']"
+988,acorn,['plant']
+989,"hip, rose hip, rosehip",['plant']
+990,"buckeye, horse chestnut, conker","['plant', 'insect', 'fish']"
+991,coral fungus,['band']
+993,gyromitra,"['plant', 'fungus']"
+996,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa","['eukaryote', 'fungus', 'species']"
+998,"ear, spike, capitulum",['person']
+999,"toilet tissue, toilet paper, bathroom tissue",['software']
