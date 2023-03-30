@@ -27,16 +27,16 @@ Google Colab works.
 an empty value for them </br>
  &nbsp;&nbsp; evaluation.ipynb  -> This notebook is used to generate the top3 and top5 files</br>
  --notebooks -> In this folder we have all the notebooks we ever used, to investigate problems, created algorithms and found solutions. <br>
-&nbsp;&nbsp;--evaluation <br>
-&nbsp;&nbsp;--files <br>
-&nbsp;&nbsp;--word_embeddings <br>
-&nbsp;&nbsp;Bert.ipynb <br>
+&nbsp;&nbsp;--evaluation -> our final evaluation with <br>
+&nbsp;&nbsp;--files -> all files htat we ever used/ generated<br>
+&nbsp;&nbsp;--word_embeddings -> contains all notebooks for the word embedding approaches <br>
+&nbsp;&nbsp;Bert.ipynb -> approach with SBERT<br>
 &nbsp;&nbsp;Jaccard_Levenshtein.ipynb <br>
 &nbsp;&nbsp;jaro_similarity.ipynb <br>
 &nbsp;&nbsp;mapping_results_bert.csv <br>
 &nbsp;&nbsp;matching.ipynb <br>
-&nbsp;&nbsp;Query_imageNet_class_in_wikipedia__2.ipynb <br>
-&nbsp;&nbsp;Query_imageNet_class_in_wikipedia.ipynb <br>
+&nbsp;&nbsp;Query_imageNet_class_in_wikipedia__2.ipynb second approach for the querry<br>
+&nbsp;&nbsp;Query_imageNet_class_in_wikipedia.ipynb first approach for the query <br>
 &nbsp;&nbsp;string_matching.ipynb -> implementation of the Fuzzy String matching, can be ignored, since this is done again in the Jaccard_Levenshtein norebook<br>
 &nbsp;&nbsp;transitive_baseline.csv -> our baseline <br>
 &nbsp;&nbsp;transitive_mapping.ipynb -> transitive mapping wordnet,wikidata,dbpedia<br>
