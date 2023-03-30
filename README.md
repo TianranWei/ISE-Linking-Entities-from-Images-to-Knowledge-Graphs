@@ -3,7 +3,7 @@
 In this project we propose methods to link 1000 ImageNet classes to 768 DBpedia classes. <br> 
 We do this by using string matching methods and language models(word2vec, wikipedia2vec , SBERT) <br> 
 
-authors: Alpino, Davide<https://github.com/DavideAl/>; Wei, Tianran <br> 
+authors: Alpino, Davide (<https://github.com/DavideAl/>) ; Wei, Tianran <br> 
 
 ## Observe
 *Sometimes the path to the .csv input files doesn't work, so
@@ -37,10 +37,10 @@ an empty value for them </br>
 &nbsp;&nbsp;matching.ipynb <br>
 &nbsp;&nbsp;Query_imageNet_class_in_wikipedia__2.ipynb <br>
 &nbsp;&nbsp;Query_imageNet_class_in_wikipedia.ipynb <br>
-&nbsp;&nbsp;string_matching.ipynb<br>
-&nbsp;&nbsp;transitive_baseline.csv <br>
-&nbsp;&nbsp;transitive_mapping.ipynb<br>
-&nbsp;&nbsp;wikipedia_test.py<br>
+&nbsp;&nbsp;string_matching.ipynb -> implementation of the Fuzzy String matching, can be ignored, since this is done again in the Jaccard_Levenshtein norebook<br>
+&nbsp;&nbsp;transitive_baseline.csv -> our baseline <br>
+&nbsp;&nbsp;transitive_mapping.ipynb -> transitive mapping wordnet,wikidata,dbpedia<br>
+&nbsp;&nbsp;wikipedia_test.py -> a simple file to test something, can be ignores<br>
 
 
 
