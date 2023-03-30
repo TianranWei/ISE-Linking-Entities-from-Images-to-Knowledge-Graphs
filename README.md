@@ -9,7 +9,9 @@ authors: Alpino, Davide; Wei, Tianran <br>
 *Sometimes the path to the .csv input files doesn't work, so
 you have to put in the absoulte path.
 
-*Since GitHub only allows 1 GB of data, the models for word2vec and wikipedia2vec need to be downloaded seperately.  <br>
+*Since GitHub only allows 1 GB of data, the models for word2vec and wikipedia2vec need to be downloaded seperately.
+
+
 [word2vec](https://www.google.com](https://code.google.com/archive/p/word2vec/)
 
 
