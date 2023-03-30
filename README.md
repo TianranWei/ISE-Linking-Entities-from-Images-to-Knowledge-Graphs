@@ -10,7 +10,7 @@ authors: Alpino, Davide; Wei, Tianran <br>
 you have to put in the absoulte path.
 
 *Since GitHub only allows 1 GB of data, the models for word2vec and wikipedia2vec need to be downloaded seperately.  <br>
-[word2vec]([https://www.google.com](https://code.google.com/archive/p/word2vec/)  <br>
+[word2vec](https://www.google.com](https://code.google.com/archive/p/word2vec/)  <br>
 [wikipedia2vec](https://wikipedia2vec.github.io/wikipedia2vec/pretrained/)  <br>
 *We used an anconda virtual environment, for the wikipedia2vec this won't work, but executing the same code inside 
 Google Colab works.
