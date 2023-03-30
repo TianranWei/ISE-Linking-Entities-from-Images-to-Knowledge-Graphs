@@ -27,7 +27,24 @@ Google Colab works.
 an empty value for them </br>
  &nbsp;&nbsp; evaluation.ipynb  -> This notebook is used to generate the top3 and top5 files</br>
  --notebooks -> In this folder we have all the notebooks we ever used, to investigate problems, created algorithms and found solutions. <br>
- --src\data
+&nbsp;&nbsp--evaluation <br>
+&nbsp;&nbsp--files <br>
+&nbsp;&nbsp--word_embeddings <br>
+&nbsp;&nbspBert.ipynb <br>
+&nbsp;&nbsp <br>
+&nbsp;&nbsp <br>
+&nbsp;&nbsp <br>
+&nbsp;&nbsp <br>
+&nbsp;&nbsp <br>
+&nbsp;&nbsp <br>
+&nbsp;&nbsp <br>
+&nbsp;&nbsp <br>
+&nbsp;&nbsp <br>
+&nbsp;&nbsp <br>
+&nbsp;&nbsp <br>
+
+
+ --src\data <br>
   &nbsp;&nbsp; mapping.py -> this files contains the class for doing the exact string matching. <br> 
 
 
