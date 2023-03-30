@@ -1,7 +1,26 @@
-Linking Entities from Images to KG
-==============================
+# Linking Entities from Images to Knowledge Graphs
 
-A short description of the project.
+A brief description of what this project does and who it's for
 
-Project Organization
-------------
+## Observe
+Sometimes the path to the .csv input files doesn't work, so
+you have to put in the absoulte path.
+
+## evaluation
+
+files --> contains all top3 files
+processed_files --> contains all top3 files, if there is no linkage between two classes we added
+an empty value for them. (in files these empty values are missing)
+evaluation.ipynb -> This notebook is used to generate the top3 and top5 files
+
+
+## notebooks
+
+## src\data
+mapping.py -> this files contains the class for doing the exact string matching.
+
+
+
+
+
+
