@@ -22,15 +22,11 @@ Google Colab works.
 
 ## Folder Documentation
 --evaluation </br>
- &nbsp;&nbsp; --files </br>
- &nbsp;&nbsp; --processed_files </br>
-  evaluation.ipynb </br>
-## evaluation
+ &nbsp;&nbsp; --files -> contains all top3 files</br>
+ &nbsp;&nbsp; --processed_files -> contains all top3 files, if there is no linkage between two classes we added
+an empty value for them </br>
+ &nbsp;&nbsp; evaluation.ipynb  -> This notebook is used to generate the top3 and top5 files</br>
 
-files --> contains all top3 files <br> 
-processed_files --> contains all top3 files, if there is no linkage between two classes we added
-an empty value for them. (in files these empty values are missing) <br> 
-evaluation.ipynb -> This notebook is used to generate the top3 and top5 files <br> 
 
 
 ## notebooks
