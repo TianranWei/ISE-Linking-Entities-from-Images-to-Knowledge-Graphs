@@ -26,20 +26,21 @@ Google Colab works.
  &nbsp;&nbsp; --processed_files -> contains all top3 files, if there is no linkage between two classes we added
 an empty value for them </br>
  &nbsp;&nbsp; evaluation.ipynb  -> This notebook is used to generate the top3 and top5 files</br>
+ --notebooks -> In this folder we have all the notebooks we ever used, to investigate problems, created algorithms and found solutions. <br>
+ --src\data
+  &nbsp;&nbsp; mapping.py -> this files contains the class for doing the exact string matching. <br> 
 
 
 
 ## notebooks
-In this folder we have all the notebooks we ever used, to investigate problems, created algorithms and found solutions. <br>
-### evaluation
-### files
-### word_embeddings
+
+
 
 Bert.ipynb -> contains the approach with SBert
 Jaccard_Levenshtein.ipynb
 
-## src\data
-mapping.py -> this files contains the class for doing the exact string matching. <br> 
+
+
 
 
 
