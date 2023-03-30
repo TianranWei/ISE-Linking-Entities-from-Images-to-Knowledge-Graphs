@@ -31,7 +31,7 @@ an empty value for them </br>
 &nbsp;&nbsp;--files <br>
 &nbsp;&nbsp;--word_embeddings <br>
 &nbsp;&nbsp;Bert.ipynb <br>
-&nbsp;&nbsp;Jaccard_Levenshtein <br>
+&nbsp;&nbsp;Jaccard_Levenshtein.ipynb <br>
 &nbsp;&nbsp;jaro_similarity.ipynb <br>
 &nbsp;&nbsp;mapping_results_bert.csv <br>
 &nbsp;&nbsp;matching.ipynb <br>
