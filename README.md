@@ -1,6 +1,9 @@
 # Linking Entities from Images to Knowledge Graphs
 
-A brief description of what this project does and who it's for
+In this project we propose methods to link 1000 ImageNet classes to 768 DBpedia classes. <br> 
+We do this by using string matching methods and language models(word2vec, wikipedia2vec , SBERT) <br> 
+
+authors: Alpino, Davide; Wei, Tianran <br> 
 
 ## Observe
 Sometimes the path to the .csv input files doesn't work, so
