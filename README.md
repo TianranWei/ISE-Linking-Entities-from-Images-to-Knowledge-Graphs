@@ -3,7 +3,7 @@
 In this project we propose methods to link 1000 ImageNet classes to 768 DBpedia classes. <br> 
 We do this by using string matching methods and language models(word2vec, wikipedia2vec , SBERT) <br> 
 
-authors: Alpino, Davide; Wei, Tianran <br> 
+authors: Alpino, Davide<https://github.com/DavideAl/>; Wei, Tianran <br> 
 
 ## Observe
 *Sometimes the path to the .csv input files doesn't work, so
@@ -27,21 +27,22 @@ Google Colab works.
 an empty value for them </br>
  &nbsp;&nbsp; evaluation.ipynb  -> This notebook is used to generate the top3 and top5 files</br>
  --notebooks -> In this folder we have all the notebooks we ever used, to investigate problems, created algorithms and found solutions. <br>
-&nbsp;&nbsp--evaluation <br>
-&nbsp;&nbsp--files <br>
-&nbsp;&nbsp--word_embeddings <br>
-&nbsp;&nbspBert.ipynb <br>
-&nbsp;&nbsp <br>
-&nbsp;&nbsp <br>
-&nbsp;&nbsp <br>
-&nbsp;&nbsp <br>
-&nbsp;&nbsp <br>
-&nbsp;&nbsp <br>
-&nbsp;&nbsp <br>
-&nbsp;&nbsp <br>
-&nbsp;&nbsp <br>
-&nbsp;&nbsp <br>
-&nbsp;&nbsp <br>
+&nbsp;&nbsp;--evaluation <br>
+&nbsp;&nbsp;--files <br>
+&nbsp;&nbsp;--word_embeddings <br>
+&nbsp;&nbsp;Bert.ipynb <br>
+&nbsp;&nbsp;Jaccard_Levenshtein <br>
+&nbsp;&nbsp;jaro_similarity.ipynb <br>
+&nbsp;&nbsp;mapping_results_bert.csv <br>
+&nbsp;&nbsp;matching.ipynb <br>
+&nbsp;&nbsp;Query_imageNet_class_in_wikipedia__2.ipynb <br>
+&nbsp;&nbsp;Query_imageNet_class_in_wikipedia.ipynb <br>
+&nbsp;&nbsp;string_matching.ipynb<br>
+&nbsp;&nbsp;transitive_baseline.csv <br>
+&nbsp;&nbsp;transitive_mapping.ipynb<br>
+&nbsp;&nbsp;wikipedia_test.py<br>
+
+
 
 
  --src\data <br>
