@@ -20,6 +20,11 @@ you have to put in the absolute path.
 *We used an anconda virtual environment, for the wikipedia2vec this won't work, but executing the same code inside 
 Google Colab works.
 
+## Folder Documentation
+--evaluation
+  --files
+  --processed_files
+  evaluation.ipynb
 ## evaluation
 
 files --> contains all top3 files <br> 
