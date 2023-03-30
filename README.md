@@ -6,8 +6,13 @@ We do this by using string matching methods and language models(word2vec, wikipe
 authors: Alpino, Davide; Wei, Tianran <br> 
 
 ## Observe
-Sometimes the path to the .csv input files doesn't work, so
+..*Sometimes the path to the .csv input files doesn't work, so
 you have to put in the absoulte path.
+
+..*Since GitHub only allows 1 GB of data, the models for word2vec and wikipedia2vec need to be downloaded seperately.
+
+..*We used an anconda virtual environment, for the wikipedia2vec this won't work, but executing the same code inside 
+Google Colab works.
 
 ## evaluation
 
@@ -18,6 +23,12 @@ evaluation.ipynb -> This notebook is used to generate the top3 and top5 files <b
 
 
 ## notebooks
+### evaluation
+### files
+### word_embeddings
+
+Bert.ipynb -> contains the approach with SBert
+Jaccard_Levenshtein.ipynb
 
 ## src\data
 mapping.py -> this files contains the class for doing the exact string matching. <br> 
